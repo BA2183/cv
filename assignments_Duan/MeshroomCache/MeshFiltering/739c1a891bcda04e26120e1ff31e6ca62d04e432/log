@@ -1,0 +1,51 @@
+Program called with the following parameters:
+ * filterLargeTrianglesFactor = 60
+ * filterTrianglesRatio = 0
+ * filteringIterations = 1
+ * filteringSubset = "all"
+ * inputMesh = "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/MultiviewStereoCL/fc880e22238fcc3dffe70cd95845a9b5bf0ca715/mesh.obj"
+ * keepLargestMeshOnly = 0
+ * outputMesh = "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/MeshFiltering/739c1a891bcda04e26120e1ff31e6ca62d04e432/mesh.obj"
+ * smoothingBoundariesNeighbours = 0
+ * smoothingIterations = 5
+ * smoothingLambda = 1
+ * smoothingSubset = "all"
+ * verboseLevel = "info"
+
+[18:24:57.770634][info] Loading mesh from obj file: D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/MultiviewStereoCL/fc880e22238fcc3dffe70cd95845a9b5bf0ca715/mesh.obj
+[18:24:57.772402][info] 	- # vertices: 11
+	- # normals: 0
+	- # uv coordinates: 0
+	- # triangles: 9
+[18:24:57.772402][info] Mesh loaded: 
+	- #points: 11
+	- # triangles: 9
+[18:24:57.772402][info] Mesh file: "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/MultiviewStereoCL/fc880e22238fcc3dffe70cd95845a9b5bf0ca715/mesh.obj" loaded.
+[18:24:57.772402][info] Input mesh: 11 vertices and 9 facets.
+[18:24:57.772402][info] Start mesh filtering.
+[18:24:57.772402][info] Mesh filtering: iteration 0
+[18:24:57.772402][info] Filtering large triangles.
+[18:24:57.776684][info] Filtering large triangles, done.
+[18:24:57.776684][info] Mesh filtering done: 11 vertices and 9 facets.
+[18:24:57.777165][info] Start mesh smoothing.
+[18:24:57.777165][info] cleanMesh:
+	- # wrong points: 0
+	- # new points: 0
+[18:24:57.777165][info] Optimizing mesh smooth: 
+	- lamda: 1
+	- niters: 5
+[18:24:57.777165][info] Optimizing mesh smooth: iteration 0
+[18:24:57.777165][info] Optimizing mesh smooth: iteration 1
+[18:24:57.778204][info] Optimizing mesh smooth: iteration 2
+[18:24:57.778204][info] Optimizing mesh smooth: iteration 3
+[18:24:57.779589][info] Optimizing mesh smooth: iteration 4
+[18:24:57.779589][info] Mesh smoothing done: 11 vertices and 9 facets.
+[18:24:57.779589][info] remove free points from mesh.
+Output mesh: 11 vertices and 9 facets.
+[18:24:57.779589][info] Save mesh.
+[18:24:57.779589][info] Save mesh to obj: D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/MeshFiltering/739c1a891bcda04e26120e1ff31e6ca62d04e432/mesh.obj
+[18:24:57.780563][info] Nb points: 11
+[18:24:57.780563][info] Nb triangles: 9
+[18:24:57.780563][info] Save mesh to obj done.
+[18:24:57.780563][info] Mesh file: "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/MeshFiltering/739c1a891bcda04e26120e1ff31e6ca62d04e432/mesh.obj" saved.
+[18:24:57.780563][info] Task done in (s): 0.013000

@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "FeatureExtraction_1",
+    "nodeType": "FeatureExtraction",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_featureExtraction  --input \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/CameraInit/6e9322eb8e9d719112316dfef2ff7b33d1fd18de/cameraInit.sfm\" --describerTypes sift --describerPreset normal --describerQuality normal --contrastFiltering GridSort --gridFiltering True --forceCpuExtraction True --maxThreads 0 --verboseLevel info --output \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/FeatureExtraction/e2dfb138b078d47d14ed89da42f5697d21e57db4\" --rangeStart 0 --rangeSize 40",
+    "env": null,
+    "startDateTime": "2025-11-12 16:09:31.185851",
+    "endDateTime": "2025-11-12 16:09:39.370114",
+    "elapsedTime": 8.184262990951538,
+    "hostname": "DESKTOP-2GPQ0N0",
+    "sessionUid": "35a5ad18-c01c-11f0-bf5d-8b0ee4b93c1c",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:08.184263"
+}

@@ -1,0 +1,62 @@
+
+==============================================================================
+Image undistortion
+==============================================================================
+
+Undistorting image [1/2]
+Undistorting image [2/2]
+Writing reconstruction...
+Writing configuration...
+Writing scripts...
+Elapsed time: 0.001 [minutes]
+Reading workspace...
+Reading configuration...
+Configuration has 2 problems...
+Elapsed time: 0.001 [minutes]
+Reading workspace...
+Reading configuration...
+Configuration has 2 problems...
+Elapsed time: 0.001 [minutes]
+
+StereoFusion::Options
+---------------------
+max_image_size: 3200
+min_num_pixels: 5
+max_num_pixels: 10000
+max_traversal_depth: 100
+max_reproj_error: 2
+max_depth_error: 0.01
+max_normal_error: 10
+check_num_images: 50
+cache_size: 32
+
+Reading workspace...
+Reading configuration...
+Fusing image [1/2] in 0.219s (140 points)
+Fusing image [2/2] in 0.047s (140 points)
+Number of fused points: 140
+Elapsed time: 0.006 [minutes]
+Writing output: D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/MultiviewStereoCL/9fde8ab6cd3ec315eb60d27fcf1e9c98b3e381d7\fused.ply
+Triangulating points...
+Triangulation has 140 using 140 points.
+Initializing ray tracer...
+Initializing graph optimization...
+Integrating image [1/2] in 0.036s
+Integrating image [2/2] in 0.002s
+Setting up optimization...
+Running graph-cut optimization...
+Extracting surface as min-cut...
+Creating surface mesh model...
+F1112 15:19:33.343819 13964 math.h:233] Check failed: !elems.empty() 
+*** Check failure stack trace: ***
+    @   00007FF96A985FCB  public: void __cdecl google::LogMessage::Flush(void) __ptr64
+    @   00007FF96A984B29  public: __cdecl google::LogMessageFatal::~LogMessageFatal(void) __ptr64
+    @   00007FF73FD4D401  (unknown)
+    @   00007FF73FD6CB2A  (unknown)
+    @   00007FF73FD6CFBC  (unknown)
+    @   00007FF73FC2F849  (unknown)
+    @   00007FF73FC217A6  (unknown)
+    @   00007FF73FC641BF  (unknown)
+    @   00007FF74017EAD4  (unknown)
+    @   00007FF9F7CBE8D7  BaseThreadInitThunk
+    @   00007FF9F8B4C53C  RtlUserThreadStart

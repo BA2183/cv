@@ -1,0 +1,20 @@
+{
+    "nodeName": "ApplyCalibration_1",
+    "nodeType": "ApplyCalibration",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "mrNodeType": "COMMANDLINE",
+    "sessionUid": "bd8f1584-c01a-11f0-8541-8b0ee4b93c1c",
+    "submitterSessionUid": "bd8f1584-c01a-11f0-8541-8b0ee4b93c1c",
+    "execMode": "LOCAL",
+    "status": "SUCCESS",
+    "graph": "",
+    "commandLine": "aliceVision_applyCalibration  --input \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/CameraInit/0dd2d54478de5e5cf94947ddec13941d057c5fae/cameraInit.sfm\" --calibration \"\" --useJson False --verboseLevel \"info\" --output \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/ApplyCalibration/8dffba61c190bca8a7f7c75e01584cbca8404c16/sfmData.sfm\"",
+    "env": "",
+    "startDateTime": "2025-11-12 15:59:40.986863",
+    "endDateTime": "2025-11-12 15:59:51.759707",
+    "elapsedTime": 10.772843837738037,
+    "hostname": "DESKTOP-2GPQ0N0",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:10.772844"
+}

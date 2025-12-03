@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "MultiviewStereoCL_1",
+    "nodeType": "MultiviewStereoCL",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "meshroomCL_MultiviewStereoCL  --input \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/StructureFromMotion/10c008b9417c93b74f3078f8097a020ef639a5e1/sfm.abc\" --sfmFolder \"\" --meshingMethod delaunay --maxImageSize 3200 --windowRadius 5 --maxSourceImages 10 --OpenCLDevices False --computeVisibility False --dataCacheSize 7 --fusionCacheSize 32 --outputMesh \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/MultiviewStereoCL/a4aebd43b1f1ec4e130ba78dcca77caf07833f2b/mesh.obj\" --output \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/MultiviewStereoCL/a4aebd43b1f1ec4e130ba78dcca77caf07833f2b/densePointCloud.abc\" --outputFolder \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/MultiviewStereoCL/a4aebd43b1f1ec4e130ba78dcca77caf07833f2b\"",
+    "env": null,
+    "startDateTime": "2025-11-12 16:09:58.478382",
+    "endDateTime": "2025-11-12 16:11:35.136342",
+    "elapsedTime": 96.65796041488647,
+    "hostname": "DESKTOP-2GPQ0N0",
+    "sessionUid": "35a5ad18-c01c-11f0-bf5d-8b0ee4b93c1c",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:01:36.657960"
+}

@@ -1,0 +1,18 @@
+{
+    "status": "ERROR",
+    "execMode": "LOCAL",
+    "nodeName": "DepthMap_1",
+    "nodeType": "DepthMap",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_depthMapEstimation  --input \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/StructureFromMotion/0fd929417b336b4a1d70ed70445e6c1a9ea3bdcc/sfm.abc\" --imagesFolder \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/PrepareDenseScene/36227e078c0617fe85ef9516523a65dfe2494894\" --downscale 2 --minViewAngle 2.0 --maxViewAngle 70.0 --sgmMaxTCams 10 --sgmWSH 4 --sgmGammaC 5.5 --sgmGammaP 8.0 --refineMaxTCams 6 --refineNSamplesHalf 150 --refineNDepthsToRefine 31 --refineNiters 100 --refineWSH 3 --refineSigma 15 --refineGammaC 15.5 --refineGammaP 8.0 --refineUseTcOrRcPixSize False --exportIntermediateResults False --nbGPUs 0 --verboseLevel info --output \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/DepthMap/794c680e91bc6136d97d61e6468146875f34d10d\" --rangeStart 6 --rangeSize 3",
+    "env": null,
+    "startDateTime": "2025-11-12 16:08:56.543557",
+    "endDateTime": "",
+    "elapsedTime": 0,
+    "hostname": "DESKTOP-2GPQ0N0",
+    "sessionUid": "35a5ad18-c01c-11f0-bf5d-8b0ee4b93c1c",
+    "returnCode": 1,
+    "elapsedTimeStr": "0:00:00"
+}

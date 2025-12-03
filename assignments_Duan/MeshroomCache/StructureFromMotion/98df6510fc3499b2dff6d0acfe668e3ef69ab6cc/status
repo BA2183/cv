@@ -1,0 +1,18 @@
+{
+    "status": "ERROR",
+    "execMode": "LOCAL",
+    "nodeName": "StructureFromMotion_1",
+    "nodeType": "StructureFromMotion",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_incrementalSfM  --input \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/CameraInit/8efa8b7d122cc46adb11af3142fe88106ee6b113/cameraInit.sfm\" --featuresFolders \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/FeatureExtraction/41214ca9813d6866f699ec0786b9fbd6dedac6e8\" --matchesFolders \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/FeatureMatching/d44dfb8fee810c161a65099c549df97f1a13fa9b\" --describerTypes sift --localizerEstimator acransac --observationConstraint Basic --localizerEstimatorMaxIterations 4096 --localizerEstimatorError 0.0 --lockScenePreviouslyReconstructed False --useLocalBA True --localBAGraphDistance 1 --maxNumberOfMatches 0 --minNumberOfMatches 0 --minInputTrackLength 2 --minNumberOfObservationsForTriangulation 2 --minAngleForTriangulation 3.0 --minAngleForLandmark 2.0 --maxReprojectionError 4.0 --minAngleInitialPair 5.0 --maxAngleInitialPair 40.0 --useOnlyMatchesFromInputFolder False --useRigConstraint True --lockAllIntrinsics False --filterTrackForks False --initialPairA \"\" --initialPairB \"\" --interFileExtension .abc --verboseLevel info --output \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/StructureFromMotion/98df6510fc3499b2dff6d0acfe668e3ef69ab6cc/sfm.abc\" --outputViewsAndPoses \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/StructureFromMotion/98df6510fc3499b2dff6d0acfe668e3ef69ab6cc/cameras.sfm\" --extraInfoFolder \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/StructureFromMotion/98df6510fc3499b2dff6d0acfe668e3ef69ab6cc\"",
+    "env": null,
+    "startDateTime": "2025-11-12 16:07:35.057346",
+    "endDateTime": "",
+    "elapsedTime": 0,
+    "hostname": "DESKTOP-2GPQ0N0",
+    "sessionUid": "35a5ad18-c01c-11f0-bf5d-8b0ee4b93c1c",
+    "returnCode": 1,
+    "elapsedTimeStr": "0:00:00"
+}

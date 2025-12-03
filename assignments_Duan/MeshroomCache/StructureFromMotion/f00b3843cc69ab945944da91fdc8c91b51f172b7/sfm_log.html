@@ -1,0 +1,66 @@
+<html><head>
+<link rel="stylesheet" type="text/css" href="http://jsxgraph.uni-bayreuth.de/distrib/jsxgraph.css" />
+<link rel="stylesheet" type="text/css" href="http://imagine.enpc.fr/~moulonp/style.css" /><script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.93/jsxgraphcore.js"></script>
+<title>[log] Sequential SfM reconstruction</title>
+</head>
+<h1>[log] Sequential SfM reconstruction</h1>
+<hr>Dataset info:Views count: 17<br><h3>Essential Matrix.</h3>
+
+<b>Robust Essential matrix:</b><br>-> View I:<br>id: 342196849<br>image path: D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex5_12.jpg<br>-> View J:<br>id: 1443957691<br>image path: D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex5_11.jpg<br><br>- Threshold: 80.7601<br>- Resection status: OK<br>- # points used for robust Essential matrix estimation: 564<br>- # points validated by robust estimation: 461<br>- % points validated: 0.817376<br><h3>Initial triangulation - Residual of the robust estimation.<br>Thresholded at: 80.7601</h3>
+<h3>Histogram of residuals</h3>
+
+<div id="InitialPairTriangulationKeptInfo" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('InitialPairTriangulationKeptInfo', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [0.00000,0.57143,1.14286,1.71429,2.28571,2.85714,3.42857,4.00000,];
+var data1= [207.00000,165.00000,149.00000,110.00000,120.00000,89.00000,72.00000,10.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1],strokeColor:'#0000ff',highlightStrokeColor:'#0000ff'});
+var p2 = board.create('point',[80.76010,0.00000], {fixed:true});
+var p3 = board.create('point',[80.76010,207.00000], {fixed:true});
+var li = board.create('line',[p2,p3], {strokeColor:'00ff00',strokeWidth:2});
+board.unsuspendUpdate();
+board.setBoundingBox([-0.80000,246.40000,4.80000,-29.40000]);
+</script>
+<hr><h4>Robust resection of view 1390762317: <br></h4>
+
+- Image path: D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex5_10.jpg<br>- Threshold (error max): 32.2333<br>- Resection status: FAILED<br>- # points used for Resection: 27<br>- # points validated by robust estimation: 20<br>- % points validated: 0.740741<br><h4>Robust resection of view 874908085: <br></h4>
+
+- Image path: D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex5_13.jpg<br>- Threshold (error max): 142.659<br>- Resection status: OK<br>- # points used for Resection: 23<br>- # points validated by robust estimation: 23<br>- % points validated: 1<br><h4>Robust resection of view 794848845: <br></h4>
+
+- Image path: D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex5_9.jpg<br>- Threshold (error max): 15.1817<br>- Resection status: FAILED<br>- # points used for Resection: 11<br>- # points validated by robust estimation: 10<br>- % points validated: 0.909091<br><h4>Robust resection of view 738448197: <br></h4>
+
+- Image path: D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex5_4.jpg<br>- Threshold (error max): 1.76366<br>- Resection status: OK<br>- # points used for Resection: 54<br>- # points validated by robust estimation: 45<br>- % points validated: 0.833333<br><h4>Robust resection of view 362832386: <br></h4>
+
+- Image path: D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex5_3.jpg<br>- Threshold (error max): 1.32313<br>- Resection status: OK<br>- # points used for Resection: 37<br>- # points validated by robust estimation: 32<br>- % points validated: 0.864865<br><h4>Robust resection of view 263704130: <br></h4>
+
+- Image path: D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex5_16.jpg<br>- Threshold (error max): 73.6714<br>- Resection status: FAILED<br>- # points used for Resection: 4<br>- # points validated by robust estimation: 4<br>- % points validated: 1<br><h4>Robust resection of view 1928372167: <br></h4>
+
+- Image path: D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex5_5.jpg<br>- Threshold (error max): 0<br>- Resection status: FAILED<br>- # points used for Resection: 1<br>- # points validated by robust estimation: 0<br>- % points validated: 0<br><h4>Robust resection of view 395353756: <br></h4>
+
+- Image path: D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex5_15.jpg<br>- Threshold (error max): 0<br>- Resection status: FAILED<br>- # points used for Resection: 1<br>- # points validated by robust estimation: 0<br>- % points validated: 0<br><hr><h3>Structure from Motion process finished.</h3>
+Structure from Motion statistics:<br>- # input images: 17<br>- # camera calibrated: 4<br>- # poses: 4
+<br>- # landmarks: 528<br>- elapsed time: 0.719<br>- residual RMSE: 0.605642<h2>Histogram of reprojection-residuals</h2>
+
+<div id="3DtoImageResiduals" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('3DtoImageResiduals', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [0.00000,0.57143,1.14286,1.71429,2.28571,2.85714,3.42857,4.00000,];
+var data1= [651.00000,263.00000,114.00000,62.00000,22.00000,16.00000,6.00000,0.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1],strokeColor:'#0000ff',highlightStrokeColor:'#0000ff'});
+board.unsuspendUpdate();
+board.setBoundingBox([-0.80000,781.20000,4.80000,-130.20000]);
+</script>
+
+<div id="3DtoTracksSize" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('3DtoTracksSize', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [2.00000,3.50000,5.00000,];
+var data1= [468.00000,42.00000,18.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1],strokeColor:'#0000ff',highlightStrokeColor:'#0000ff'});
+board.unsuspendUpdate();
+board.setBoundingBox([1.40000,558.00000,5.60000,-72.00000]);
+</script>
+</html>

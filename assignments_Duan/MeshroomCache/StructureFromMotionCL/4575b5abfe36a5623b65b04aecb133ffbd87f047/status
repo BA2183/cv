@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "StructureFromMotionCL_1",
+    "nodeType": "StructureFromMotionCL",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "meshroomCL_StructureFromMotionCL  --input \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/CameraInit/64470f0aa29f659b65d763b44ef82470da189dba/cameraInit.sfm\" --maxImageSize 3200 --DomainSizePooling True --GuidedMatching True --bundleAdjustmentQuality default --maxNumThreads 14 --cpuOnly False --OpenCLDevices False --output \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/StructureFromMotionCL/4575b5abfe36a5623b65b04aecb133ffbd87f047/sfm.abc\" --outputViewsAndPoses \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/StructureFromMotionCL/4575b5abfe36a5623b65b04aecb133ffbd87f047/cameras.sfm\" --extraInfoFolder \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/StructureFromMotionCL/4575b5abfe36a5623b65b04aecb133ffbd87f047\"",
+    "env": null,
+    "startDateTime": "2025-11-12 15:10:26.922313",
+    "endDateTime": "2025-11-12 15:10:55.903400",
+    "elapsedTime": 28.98108673095703,
+    "hostname": "DESKTOP-2GPQ0N0",
+    "sessionUid": "3fd5cf1c-c014-11f0-9f55-8b0ee4b93c1c",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:28.981087"
+}

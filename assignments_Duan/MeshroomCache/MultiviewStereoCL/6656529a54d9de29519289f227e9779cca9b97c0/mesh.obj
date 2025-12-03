@@ -1,0 +1,36 @@
+# vorpaline algo:delaunay=NN
+# vorpaline algo:hole_filling=loop_split
+# vorpaline algo:nn_search=BNN
+# vorpaline algo:parallel=true
+# vorpaline algo:predicates=fast
+# vorpaline algo:reconstruct=Co3Ne
+# vorpaline biblio=false
+# vorpaline biblio:command_line=false
+# vorpaline debug=false
+# vorpaline log:features=*
+# vorpaline log:features_exclude=
+# vorpaline log:file_name=
+# vorpaline log:pretty=true
+# vorpaline log:quiet=false
+# vorpaline nl:CUDA=false
+# vorpaline nl:MKL=false
+# vorpaline profile=scan
+# vorpaline sys:FPE=false
+# vorpaline sys:ascii=false
+# vorpaline sys:assert=throw
+# vorpaline sys:cancel=false
+# vorpaline sys:compression_level=3
+# vorpaline sys:lowmem=false
+# vorpaline sys:max_threads=14
+# vorpaline sys:multithread=true
+# vorpaline sys:show_win32_console=false
+# vorpaline sys:stats=false
+# vorpaline sys:use_doubles=false
+v 2.46248 3.92133 15.9482 
+v 2.41968 3.89472 15.9991 
+v 2.32598 3.92783 15.9424 
+v 2.39872 3.8939 16.0002 
+v 2.2892 4.11917 15.477 
+usemtl Material_0
+f 5 4 3 
+f 2 5 1 

@@ -1,0 +1,29 @@
+{
+    "sfm": {
+        "inputtracks_histogram": {
+            "2": "4461",
+            "3": "973",
+            "4": "160",
+            "5": "52",
+            "6": "35"
+        },
+        "views": "17",
+        "validViews": "4",
+        "poses": "4",
+        "points": "528",
+        "residual": "0.60564247794035142",
+        "observationsHistogram": {
+            "2": "468"
+        },
+        "time": "0.71899999999999997"
+    },
+    "hardware": {
+        "cpu": {
+            "freq": "2688",
+            "cores": "14"
+        },
+        "ram": {
+            "size": "16587612160"
+        }
+    }
+}

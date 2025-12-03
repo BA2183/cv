@@ -1,0 +1,81 @@
+Program called with the following parameters:
+ * describerTypes = "sift"
+ * extraInfoFolder = "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/StructureFromMotion/98df6510fc3499b2dff6d0acfe668e3ef69ab6cc"
+ * featuresFolders =  = [D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/FeatureExtraction/41214ca9813d6866f699ec0786b9fbd6dedac6e8]
+ * filterTrackForks = 0
+ * initialPairA = ""
+ * initialPairB = ""
+ * input = "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/CameraInit/8efa8b7d122cc46adb11af3142fe88106ee6b113/cameraInit.sfm"
+ * interFileExtension = ".abc"
+ * localBAGraphDistance = 1
+ * localizerEstimator =  Unknown Type "enum aliceVision::robustEstimation::ERobustEstimator"
+ * localizerEstimatorError = 0
+ * localizerEstimatorMaxIterations = 4096
+ * lockAllIntrinsics = 0
+ * lockScenePreviouslyReconstructed = 0
+ * matchesFolders =  = [D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/FeatureMatching/d44dfb8fee810c161a65099c549df97f1a13fa9b]
+ * maxAngleInitialPair = 40
+ * maxNumberOfMatches = 0
+ * maxReprojectionError = 4
+ * minAngleForLandmark = 2
+ * minAngleForTriangulation = 3
+ * minAngleInitialPair = 5
+ * minInputTrackLength = 2
+ * minNumberOfMatches = 0
+ * minNumberOfObservationsForTriangulation = 2
+ * observationConstraint =  Unknown Type "enum aliceVision::sfm::EFeatureConstraint"
+ * output = "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/StructureFromMotion/98df6510fc3499b2dff6d0acfe668e3ef69ab6cc/sfm.abc"
+ * outputViewsAndPoses = "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/StructureFromMotion/98df6510fc3499b2dff6d0acfe668e3ef69ab6cc/cameras.sfm"
+ * randomSeed = 5489 (default)
+ * useLocalBA = 1
+ * useOnlyMatchesFromInputFolder = 0
+ * useRigConstraint = 1
+ * verboseLevel = "info"
+
+Loading features
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+[16:07:35.425973][error] cudaGetDeviceCount failed: CUDA driver version is insufficient for CUDA runtime version
+[16:07:35.425973][info] Can't find CUDA-Enabled GPU.
+***************************************************
+[16:07:35.581255][info] Fuse matches into tracks: 
+	- # tracks: 6491
+	- # images in tracks: 8
+[16:07:35.581255][info] TrackLength, Occurrence
+[16:07:35.581255][info] 	2	6491
+Automatic selection of an initial pair:
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[16:07:36.578263][info] Initial pair is:
+	- [A] view id: 1615281861, filepath: D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex3_3.jpg
+	- [B] view id: 1990420800, filepath: D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex3_4.jpg
+[16:07:36.586758][info] 6337 matches in the image pair for the initial pose estimation.
+[16:07:40.269474][info] Bundle adjustment start.
+[16:07:40.271980][info] Start bundle adjustment iteration: 0
+[16:07:40.328616][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.001345 s
+	- poses:
+	    - # refined:  2
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  0
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 1
+	    - # ignored:  0
+	- # residual blocks: 0
+	- # successful iterations: 18446744073709551615
+	- # unsuccessful iterations: 18446744073709551615
+	- initial RMSE: -nan(ind)
+	- final   RMSE: -nan(ind)
+[16:07:40.330624][info] Remove outliers: 
+	- # outliers residual error: 0
+	- # outliers angular error: 0
+[16:07:40.330624][info] Bundle adjustment iteration: 0 took 58 msec.
+[16:07:40.330624][info] Bundle adjustment with 1 iterations took 60 msec.
+[16:07:40.332637][fatal] Initialization failed after trying all possible initial image pairs.

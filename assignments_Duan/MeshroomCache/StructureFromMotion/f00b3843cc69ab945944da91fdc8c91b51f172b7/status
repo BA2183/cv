@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "StructureFromMotion_1",
+    "nodeType": "StructureFromMotion",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_incrementalSfM  --input \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/CameraInit/efda096537666800ed2b50e03e6cfc87057fa1df/cameraInit.sfm\" --featuresFolders \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/FeatureExtraction/01c21ddae604026dba06f2fe571d8be5444e5e6f\" --matchesFolders \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/FeatureMatching/21ed0a271bc23e7a5c87e255d1607082e00d4f7e\" --describerTypes sift --localizerEstimator acransac --observationConstraint Basic --localizerEstimatorMaxIterations 4096 --localizerEstimatorError 0.0 --lockScenePreviouslyReconstructed False --useLocalBA True --localBAGraphDistance 1 --maxNumberOfMatches 0 --minNumberOfMatches 0 --minInputTrackLength 2 --minNumberOfObservationsForTriangulation 2 --minAngleForTriangulation 3.0 --minAngleForLandmark 2.0 --maxReprojectionError 4.0 --minAngleInitialPair 5.0 --maxAngleInitialPair 40.0 --useOnlyMatchesFromInputFolder False --useRigConstraint True --lockAllIntrinsics False --filterTrackForks False --initialPairA \"\" --initialPairB \"\" --interFileExtension .abc --verboseLevel info --output \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/StructureFromMotion/f00b3843cc69ab945944da91fdc8c91b51f172b7/sfm.abc\" --outputViewsAndPoses \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/StructureFromMotion/f00b3843cc69ab945944da91fdc8c91b51f172b7/cameras.sfm\" --extraInfoFolder \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/StructureFromMotion/f00b3843cc69ab945944da91fdc8c91b51f172b7\"",
+    "env": null,
+    "startDateTime": "2025-11-12 18:02:17.844811",
+    "endDateTime": "2025-11-12 18:02:22.786717",
+    "elapsedTime": 4.941905498504639,
+    "hostname": "DESKTOP-2GPQ0N0",
+    "sessionUid": "189d9606-c02b-11f0-9912-8b0ee4b93c1c",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:04.941905"
+}

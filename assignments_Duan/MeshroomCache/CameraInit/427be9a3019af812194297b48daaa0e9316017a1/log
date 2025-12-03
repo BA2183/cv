@@ -1,0 +1,22 @@
+Program called with the following parameters:
+ * allowSingleView = 1
+ * allowedCameraModels = "pinhole,radial1,radial3,brown,fisheye4,fisheye1"
+ * defaultCameraModel = "" (default)
+ * defaultFieldOfView = 45
+ * defaultFocalLengthPix = -1 (default)
+ * defaultIntrinsic = "" (default)
+ * groupCameraFallback =  Unknown Type "enum EGroupCameraFallback"
+ * imageFolder = "" (default)
+ * input = "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/CameraInit/427be9a3019af812194297b48daaa0e9316017a1//viewpoints.sfm"
+ * output = "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/CameraInit/427be9a3019af812194297b48daaa0e9316017a1/cameraInit.sfm"
+ * sensorDatabase = "D:\MeshroomCL-0.9.0\aliceVision\share\aliceVision\cameraSensors.db"
+ * useInternalWhiteBalance = 1
+ * verboseLevel = "info"
+ * viewIdMethod =  Unknown Type "enum aliceVision::sfmDataIO::EViewIdMethod"
+ * viewIdRegex = ".*?(\d+)" (default)
+
+[16:08:28.372410][info] CameraInit report:
+	- # views listed: 11
+	   - # views with an initialized intrinsic listed: 11
+	   - # views without metadata (with a default intrinsic): 0
+	- # intrinsics listed: 2

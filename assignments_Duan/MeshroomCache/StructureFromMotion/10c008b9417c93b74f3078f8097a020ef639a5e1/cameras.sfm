@@ -1,0 +1,381 @@
+{
+    "version": [
+        "1",
+        "0",
+        "0"
+    ],
+    "featuresFolders": [
+        "..\\..\\FeatureExtraction\\e2dfb138b078d47d14ed89da42f5697d21e57db4"
+    ],
+    "matchesFolders": [
+        "..\\..\\FeatureMatching\\775085a14a8cc182ed162f9627081a13918c89ad"
+    ],
+    "views": [
+        {
+            "viewId": "30772916",
+            "poseId": "30772916",
+            "intrinsicId": "2789408064",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex4_0.jpg",
+            "width": "1134",
+            "height": "2016",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "3737",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "57582903",
+            "poseId": "57582903",
+            "intrinsicId": "2789408064",
+            "resectionId": "0",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex4_2.jpg",
+            "width": "1134",
+            "height": "2016",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "1505",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "151871065",
+            "poseId": "151871065",
+            "intrinsicId": "2789408064",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex4_10.jpg",
+            "width": "1134",
+            "height": "2016",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "4924",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "265677930",
+            "poseId": "265677930",
+            "intrinsicId": "2789408064",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex4_5.jpg",
+            "width": "1134",
+            "height": "2016",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "6436",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "377902763",
+            "poseId": "377902763",
+            "intrinsicId": "2789408064",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex4_9.jpg",
+            "width": "1134",
+            "height": "2016",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "1505",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "483328431",
+            "poseId": "483328431",
+            "intrinsicId": "2789408064",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex4_8.jpg",
+            "width": "1134",
+            "height": "2016",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "1505",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "484647371",
+            "poseId": "484647371",
+            "intrinsicId": "2789408064",
+            "resectionId": "1",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex4_3.jpg",
+            "width": "1134",
+            "height": "2016",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "1690",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "1369316392",
+            "poseId": "1369316392",
+            "intrinsicId": "2789408064",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex4_1.jpg",
+            "width": "1134",
+            "height": "2016",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "3760",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "1573809520",
+            "poseId": "1573809520",
+            "intrinsicId": "2789408064",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex4_6.jpg",
+            "width": "1134",
+            "height": "2016",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "1499",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "1664237988",
+            "poseId": "1664237988",
+            "intrinsicId": "2789408064",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex4_7.jpg",
+            "width": "1134",
+            "height": "2016",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "1505",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "1828385752",
+            "poseId": "1828385752",
+            "intrinsicId": "2789408064",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex4_4.jpg",
+            "width": "1134",
+            "height": "2016",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "1505",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": "2789408064",
+            "width": "1134",
+            "height": "2016",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.5625",
+            "serialNumber": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1547.1350871495049",
+            "principalPoint": [
+                "510.81046004176284",
+                "964.8118441634241"
+            ],
+            "distortionParams": [
+                "0.35084665141408161",
+                "-2.7109737103428642",
+                "5.7251368256212452"
+            ],
+            "locked": "0"
+        }
+    ],
+    "poses": [
+        {
+            "poseId": "57582903",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.98481842865280345",
+                        "0.12750908053938925",
+                        "-0.11778835666492077",
+                        "-0.11029561479791969",
+                        "0.98361352172169181",
+                        "0.14261597821632732",
+                        "0.13404305256958288",
+                        "-0.12745930435339187",
+                        "0.98274441529401602"
+                    ],
+                    "center": [
+                        "0.46512001221345795",
+                        "-0.88306794103436781",
+                        "0.053422382356552722"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "483328431",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99980310630353664",
+                        "0.01464292992399855",
+                        "-0.013391535723728568",
+                        "-0.014621408929754685",
+                        "0.99989165027032667",
+                        "0.0017035611499156842",
+                        "0.01341502988099246",
+                        "-0.0015074226094496275",
+                        "0.99990887817359064"
+                    ],
+                    "center": [
+                        "-0.0015038419333070398",
+                        "-0.057930183366601232",
+                        "0.57676349697780349"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "484647371",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.98264992204451074",
+                        "-0.17800148534321386",
+                        "0.052101841824704308",
+                        "0.16762200439078162",
+                        "0.97256533505817522",
+                        "0.16130571188645568",
+                        "-0.079385101561525201",
+                        "-0.14977363005145158",
+                        "0.98552821643587518"
+                    ],
+                    "center": [
+                        "-0.2354000808727818",
+                        "-0.83304375263842945",
+                        "-0.094799932412436533"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1828385752",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.98081100038344615",
+                        "0.13974301764585362",
+                        "-0.13594730797648896",
+                        "-0.13006560669798789",
+                        "0.98845781628135698",
+                        "0.077679362681316075",
+                        "0.1452333277216632",
+                        "-0.058506704329689928",
+                        "0.98766605999566992"
+                    ],
+                    "center": [
+                        "0.49775924041999947",
+                        "-0.3431621551651049",
+                        "0.10185443768935942"
+                    ]
+                },
+                "locked": "0"
+            }
+        }
+    ]
+}

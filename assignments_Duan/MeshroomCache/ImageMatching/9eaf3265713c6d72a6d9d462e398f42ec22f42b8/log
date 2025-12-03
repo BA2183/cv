@@ -1,0 +1,20 @@
+Program called with the following parameters:
+ * featuresFolders =  = [D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/FeatureExtraction/64ac56df50d51ad075e8a79fc60ae821a91ee2e7]
+ * input = "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/CameraInit/427be9a3019af812194297b48daaa0e9316017a1/cameraInit.sfm"
+ * matchingMode = "a/a" (default)
+ * maxDescriptors = 500
+ * method =  Unknown Type "enum EImageMatchingMethod"
+ * minNbImages = 200
+ * nbMatches = 50
+ * nbNeighbors = 50 (default)
+ * output = "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/ImageMatching/9eaf3265713c6d72a6d9d462e398f42ec22f42b8/imageMatches.txt"
+ * outputCombinedSfM = "" (default)
+ * tree = "D:\MeshroomCL-0.9.0\aliceVision\share\aliceVision\vlfeat_K80L3.SIFT.tree"
+ * verboseLevel = "info"
+ * weights = ""
+
+[16:08:36.505782][warning] The number of intrinsics is incoherent:
+[16:08:36.505782][warning] 2 intrinsics declared and 1 intrinsics used.
+[16:08:36.505782][info] Use EXHAUSTIVE method.
+[16:08:36.505782][info] Number of selected image pairs: 55
+[16:08:36.505782][info] pairList exported in: D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/ImageMatching/9eaf3265713c6d72a6d9d462e398f42ec22f42b8/imageMatches.txt

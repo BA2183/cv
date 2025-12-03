@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "FeatureMatching_1",
+    "nodeType": "FeatureMatching",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_featureMatching  --input \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/CameraInit/efda096537666800ed2b50e03e6cfc87057fa1df/cameraInit.sfm\" --featuresFolders \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/FeatureExtraction/01c21ddae604026dba06f2fe571d8be5444e5e6f\" --imagePairsList \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/ImageMatching/7ec6a6c3d450a2684f819403c02be2dcf57985dc/imageMatches.txt\" --describerTypes sift --photometricMatchingMethod ANN_L2 --geometricEstimator acransac --geometricFilterType fundamental_matrix --distanceRatio 0.8 --maxIteration 2048 --geometricError 0.0 --knownPosesGeometricErrorMax 5.0 --maxMatches 0 --savePutativeMatches False --crossMatching False --guidedMatching False --matchFromKnownCameraPoses False --exportDebugFiles False --verboseLevel info --output \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/FeatureMatching/21ed0a271bc23e7a5c87e255d1607082e00d4f7e\" --rangeStart 0 --rangeSize 20",
+    "env": null,
+    "startDateTime": "2025-11-12 18:01:28.912120",
+    "endDateTime": "2025-11-12 18:02:17.837536",
+    "elapsedTime": 48.925416469573975,
+    "hostname": "DESKTOP-2GPQ0N0",
+    "sessionUid": "189d9606-c02b-11f0-9912-8b0ee4b93c1c",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:48.925416"
+}

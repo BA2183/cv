@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "CameraInit_1",
+    "nodeType": "CameraInit",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_cameraInit  --sensorDatabase \"D:\\MeshroomCL-0.9.0\\aliceVision\\share\\aliceVision\\cameraSensors.db\" --defaultFieldOfView 45.0 --groupCameraFallback folder --allowedCameraModels pinhole,radial1,radial3,brown,fisheye4,fisheye1 --useInternalWhiteBalance True --viewIdMethod metadata --verboseLevel info --output \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/CameraInit/efda096537666800ed2b50e03e6cfc87057fa1df/cameraInit.sfm\" --allowSingleView 1 --input \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/CameraInit/efda096537666800ed2b50e03e6cfc87057fa1df//viewpoints.sfm\"",
+    "env": null,
+    "startDateTime": "2025-11-12 17:54:47.900523",
+    "endDateTime": "2025-11-12 17:54:48.267471",
+    "elapsedTime": 0.36694788932800293,
+    "hostname": "DESKTOP-2GPQ0N0",
+    "sessionUid": "189d9606-c02b-11f0-9912-8b0ee4b93c1c",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:00.366948"
+}

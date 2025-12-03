@@ -1,0 +1,4 @@
+Time/BA(s);RefinedPose;ConstPose;IgnoredPose;RefinedPts;ConstPts;IgnoredPts;RefinedK;ConstK;IgnoredK;ResidualBlocks;SuccessIteration;BadIteration;InitRMSE;FinalRMSE;d=-1;d=0;d=1;d=2;d=3;d=4;d=5;d=6;d=7;d=8;d=9;d=10+;
+0.0139994;2;0;0;198;0;0;0;1;0;396;6;0;1.04695;0.827958;0;0;0;0;0;0;0;0;0;0;0;0;
+0.0047741;2;0;0;190;0;0;0;1;0;380;5;0;0.711334;0.699217;0;0;0;0;0;0;0;0;0;0;0;0;
+0.0047387;2;0;0;186;0;0;0;1;0;372;5;0;0.645215;0.640517;0;0;0;0;0;0;0;0;0;0;0;0;

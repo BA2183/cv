@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "PrepareDenseScene_1",
+    "nodeType": "PrepareDenseScene",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_prepareDenseScene  --input \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/StructureFromMotion/0fd929417b336b4a1d70ed70445e6c1a9ea3bdcc/sfm.abc\" --outputFileType exr --saveMetadata True --saveMatricesTxtFiles False --evCorrection False --verboseLevel info --output \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/PrepareDenseScene/36227e078c0617fe85ef9516523a65dfe2494894\" --rangeStart 0 --rangeSize 40",
+    "env": null,
+    "startDateTime": "2025-11-12 16:08:54.444706",
+    "endDateTime": "2025-11-12 16:08:55.656441",
+    "elapsedTime": 1.2117350101470947,
+    "hostname": "DESKTOP-2GPQ0N0",
+    "sessionUid": "35a5ad18-c01c-11f0-bf5d-8b0ee4b93c1c",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:01.211735"
+}

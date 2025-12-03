@@ -1,0 +1,3625 @@
+{
+    "version": [
+        "1",
+        "0",
+        "0"
+    ],
+    "featuresFolders": [
+        "..\\..\\FeatureExtraction\\80be2177576e5c636a994e6996f416349d8aaff4"
+    ],
+    "matchesFolders": [
+        "..\\..\\FeatureMatching\\b5f7596f36a1c59eb8519c7053f827ae5ebbadcc"
+    ],
+    "views": [
+        {
+            "viewId": "240788223",
+            "poseId": "240788223",
+            "intrinsicId": "1347582197",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex5_8.jpg",
+            "width": "2268",
+            "height": "4032",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "9828",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "263704130",
+            "poseId": "263704130",
+            "intrinsicId": "1347582197",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex5_16.jpg",
+            "width": "2268",
+            "height": "4032",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "9479",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "327837308",
+            "poseId": "327837308",
+            "intrinsicId": "1347582197",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex5_0.jpg",
+            "width": "2268",
+            "height": "4032",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "9613",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "342196849",
+            "poseId": "342196849",
+            "intrinsicId": "1347582197",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex5_12.jpg",
+            "width": "2268",
+            "height": "4032",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "11675",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "362832386",
+            "poseId": "362832386",
+            "intrinsicId": "1347582197",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex5_3.jpg",
+            "width": "2268",
+            "height": "4032",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "12805",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "395353756",
+            "poseId": "395353756",
+            "intrinsicId": "1347582197",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex5_15.jpg",
+            "width": "2268",
+            "height": "4032",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "11693",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "526676255",
+            "poseId": "526676255",
+            "intrinsicId": "1347582197",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex5_7.jpg",
+            "width": "2268",
+            "height": "4032",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "10457",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "647587664",
+            "poseId": "647587664",
+            "intrinsicId": "1347582197",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex5_2.jpg",
+            "width": "2268",
+            "height": "4032",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "12592",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "738448197",
+            "poseId": "738448197",
+            "intrinsicId": "1347582197",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex5_4.jpg",
+            "width": "2268",
+            "height": "4032",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "9371",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "759368925",
+            "poseId": "759368925",
+            "intrinsicId": "1347582197",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex5_6.jpg",
+            "width": "2268",
+            "height": "4032",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "12587",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "794848845",
+            "poseId": "794848845",
+            "intrinsicId": "1347582197",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex5_9.jpg",
+            "width": "2268",
+            "height": "4032",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "11174",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "874908085",
+            "poseId": "874908085",
+            "intrinsicId": "1347582197",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex5_13.jpg",
+            "width": "2268",
+            "height": "4032",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "13583",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "1390762317",
+            "poseId": "1390762317",
+            "intrinsicId": "1347582197",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex5_10.jpg",
+            "width": "2268",
+            "height": "4032",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "13563",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "1421978266",
+            "poseId": "1421978266",
+            "intrinsicId": "1347582197",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex5_14.jpg",
+            "width": "2268",
+            "height": "4032",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "11959",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "1443957691",
+            "poseId": "1443957691",
+            "intrinsicId": "1347582197",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex5_11.jpg",
+            "width": "2268",
+            "height": "4032",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "11892",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "1928372167",
+            "poseId": "1928372167",
+            "intrinsicId": "1347582197",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex5_5.jpg",
+            "width": "2268",
+            "height": "4032",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "11132",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "2147306674",
+            "poseId": "2147306674",
+            "intrinsicId": "1347582197",
+            "path": "D:\/Duan_OneDrive\/OneDrive\/Documents\/cv\/assignments_Duan\/hw10_image\/ex5_1.jpg",
+            "width": "2268",
+            "height": "4032",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "9211",
+                "Item:Mime": "image\/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": "1347582197",
+            "width": "2268",
+            "height": "4032",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.5625",
+            "serialNumber": "",
+            "type": "radial1",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "800",
+            "principalPoint": [
+                "400",
+                "400"
+            ],
+            "distortionParams": [
+                "0.01"
+            ],
+            "locked": "1"
+        }
+    ],
+    "poses": [
+        {
+            "poseId": "342196849",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99999776228797843",
+                        "-0.0018569193344539995",
+                        "-0.0010135431027206987",
+                        "0.001858177426802931",
+                        "0.99999750260805131",
+                        "0.0012417545292043722",
+                        "0.0010112347335123647",
+                        "-0.0012436350934299214",
+                        "0.99999871538720897"
+                    ],
+                    "center": [
+                        "0.017785331526585863",
+                        "0.0052630887075694787",
+                        "0.0076187870921162089"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "874908085",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.94353487973938899",
+                        "-0.27194876422939873",
+                        "0.18917135181966557",
+                        "0.28326409668502961",
+                        "0.9584006207963417",
+                        "-0.035067101197575452",
+                        "-0.17176548618506274",
+                        "0.086672485203146854",
+                        "0.9813177355292827"
+                    ],
+                    "center": [
+                        "0.98592960077745651",
+                        "-0.10435833265267491",
+                        "-0.0053818293619459778"
+                    ]
+                },
+                "locked": "0"
+            }
+        }
+    ],
+    "structure": [
+        {
+            "landmarkId": "0",
+            "descType": "sift",
+            "color": [
+                "33",
+                "23",
+                "21"
+            ],
+            "X": [
+                "0.89432299137115479",
+                "0.52738422155380249",
+                "0.73572379350662231"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "335",
+                    "x": [
+                        "1383.97998046875",
+                        "979.07098388671875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "323",
+                    "x": [
+                        "360.7659912109375",
+                        "1218.8299560546875"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "1",
+            "descType": "sift",
+            "color": [
+                "40",
+                "36",
+                "27"
+            ],
+            "X": [
+                "1.2284998893737793",
+                "0.26630693674087524",
+                "0.65084624290466309"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "334",
+                    "x": [
+                        "1965.530029296875",
+                        "733.76300048828125"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "605",
+                    "x": [
+                        "662.09698486328125",
+                        "810.1829833984375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "2",
+            "descType": "sift",
+            "color": [
+                "18",
+                "16",
+                "17"
+            ],
+            "X": [
+                "1.5903356075286865",
+                "0.68753492832183838",
+                "0.77387124300003052"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "634",
+                    "x": [
+                        "2128.080078125",
+                        "1144.3800048828125"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "959",
+                    "x": [
+                        "1028.550048828125",
+                        "1029.9100341796875"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "3",
+            "descType": "sift",
+            "color": [
+                "104",
+                "99",
+                "95"
+            ],
+            "X": [
+                "1.6366826295852661",
+                "0.72239357233047485",
+                "0.78429597616195679"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "660",
+                    "x": [
+                        "2158.3798828125",
+                        "1173.7900390625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "1112",
+                    "x": [
+                        "1064.2900390625",
+                        "1037.43994140625"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "4",
+            "descType": "sift",
+            "color": [
+                "10",
+                "11",
+                "6"
+            ],
+            "X": [
+                "1.6982992887496948",
+                "0.69598644971847534",
+                "0.77845597267150879"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "883",
+                    "x": [
+                        "2245.510009765625",
+                        "1152.8699951171875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "1245",
+                    "x": [
+                        "1107.239990234375",
+                        "993.5670166015625"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "5",
+            "descType": "sift",
+            "color": [
+                "42",
+                "27",
+                "20"
+            ],
+            "X": [
+                "0.90112513303756714",
+                "0.50090152025222778",
+                "0.72993826866149902"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "862",
+                    "x": [
+                        "1399.5899658203125",
+                        "954.0670166015625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "994",
+                    "x": [
+                        "360.36898803710938",
+                        "1189.510009765625"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "6",
+            "descType": "sift",
+            "color": [
+                "70",
+                "70",
+                "70"
+            ],
+            "X": [
+                "1.5856473445892334",
+                "0.67566007375717163",
+                "0.77055960893630981"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "699",
+                    "x": [
+                        "2130.25",
+                        "1134.25"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "1055",
+                    "x": [
+                        "1024.4300537109375",
+                        "1022.8400268554688"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "7",
+            "descType": "sift",
+            "color": [
+                "81",
+                "81",
+                "81"
+            ],
+            "X": [
+                "1.6657642126083374",
+                "0.69576317071914673",
+                "0.77954584360122681"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "2021",
+                    "x": [
+                        "2203.7900390625",
+                        "1150.27001953125"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "4480",
+                    "x": [
+                        "1082.2900390625",
+                        "1004.8699951171875"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "8",
+            "descType": "sift",
+            "color": [
+                "107",
+                "106",
+                "112"
+            ],
+            "X": [
+                "1.6379517316818237",
+                "0.67041486501693726",
+                "0.77230805158615112"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "2573",
+                    "x": [
+                        "2188.199951171875",
+                        "1128.25"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "2792",
+                    "x": [
+                        "1060.969970703125",
+                        "996.67498779296875"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "9",
+            "descType": "sift",
+            "color": [
+                "18",
+                "18",
+                "18"
+            ],
+            "X": [
+                "1.7096544504165649",
+                "0.70007789134979248",
+                "0.78072434663772583"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "3024",
+                    "x": [
+                        "2253.320068359375",
+                        "1156.510009765625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "4397",
+                    "x": [
+                        "1113.77001953125",
+                        "990.64300537109375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "10",
+            "descType": "sift",
+            "color": [
+                "47",
+                "73",
+                "70"
+            ],
+            "X": [
+                "1.2556308507919312",
+                "0.37248942255973816",
+                "0.67726320028305054"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "8541",
+                    "x": [
+                        "1937.5",
+                        "852.08599853515625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "8427",
+                    "x": [
+                        "710.8289794921875",
+                        "905.49102783203125"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "11",
+            "descType": "sift",
+            "color": [
+                "29",
+                "19",
+                "17"
+            ],
+            "X": [
+                "0.91268104314804077",
+                "0.53458011150360107",
+                "0.73662412166595459"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "34",
+                    "x": [
+                        "1404.1400146484375",
+                        "987.97198486328125"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "33",
+                    "x": [
+                        "382.85101318359375",
+                        "1215.280029296875"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "12",
+            "descType": "sift",
+            "color": [
+                "33",
+                "20",
+                "14"
+            ],
+            "X": [
+                "0.64473718404769897",
+                "1.0665549039840698",
+                "0.91286218166351318"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "68",
+                    "x": [
+                        "966.5360107421875",
+                        "1353.1099853515625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "54",
+                    "x": [
+                        "246.86000061035156",
+                        "1736.4100341796875"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "13",
+            "descType": "sift",
+            "color": [
+                "1",
+                "1",
+                "1"
+            ],
+            "X": [
+                "1.2573013305664062",
+                "0.31747525930404663",
+                "0.66461098194122314"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "44",
+                    "x": [
+                        "1970.4000244140625",
+                        "792.468994140625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "61",
+                    "x": [
+                        "700.9010009765625",
+                        "848.70697021484375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "14",
+            "descType": "sift",
+            "color": [
+                "149",
+                "140",
+                "133"
+            ],
+            "X": [
+                "0.95444309711456299",
+                "0.67997920513153076",
+                "0.77225178480148315"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "93",
+                    "x": [
+                        "1404.72998046875",
+                        "1120.3699951171875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "122",
+                    "x": [
+                        "464.80599975585938",
+                        "1318.31005859375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "15",
+            "descType": "sift",
+            "color": [
+                "27",
+                "17",
+                "15"
+            ],
+            "X": [
+                "1.1846849918365479",
+                "1.039262056350708",
+                "0.87021541595458984"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "171",
+                    "x": [
+                        "1520.1400146484375",
+                        "1387.56005859375"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "257",
+                    "x": [
+                        "743.20599365234375",
+                        "1463.0799560546875"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "16",
+            "descType": "sift",
+            "color": [
+                "24",
+                "14",
+                "12"
+            ],
+            "X": [
+                "0.69365847110748291",
+                "1.1276199817657471",
+                "0.93438321352005005"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "204",
+                    "x": [
+                        "997.18902587890625",
+                        "1384.3699951171875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "266",
+                    "x": [
+                        "312.53900146484375",
+                        "1738.4000244140625"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "17",
+            "descType": "sift",
+            "color": [
+                "137",
+                "128",
+                "119"
+            ],
+            "X": [
+                "0.88526284694671631",
+                "0.61498159170150757",
+                "0.75474679470062256"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "573",
+                    "x": [
+                        "1349.97998046875",
+                        "1065.530029296875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "315",
+                    "x": [
+                        "373.73001098632812",
+                        "1301.75"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "18",
+            "descType": "sift",
+            "color": [
+                "166",
+                "157",
+                "148"
+            ],
+            "X": [
+                "0.96405041217803955",
+                "0.69475299119949341",
+                "0.77563446760177612"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "277",
+                    "x": [
+                        "1411.0400390625",
+                        "1133.68994140625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "335",
+                    "x": [
+                        "478.14300537109375",
+                        "1325.43994140625"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "19",
+            "descType": "sift",
+            "color": [
+                "187",
+                "176",
+                "148"
+            ],
+            "X": [
+                "1.113563060760498",
+                "0.84071838855743408",
+                "0.81581795215606689"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "216",
+                    "x": [
+                        "1518.8399658203125",
+                        "1249.81005859375"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "340",
+                    "x": [
+                        "650.71002197265625",
+                        "1358.5899658203125"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "20",
+            "descType": "sift",
+            "color": [
+                "94",
+                "94",
+                "94"
+            ],
+            "X": [
+                "1.6789480447769165",
+                "0.72340190410614014",
+                "0.78077805042266846"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "707",
+                    "x": [
+                        "2217.320068359375",
+                        "1178.81005859375"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "359",
+                    "x": [
+                        "1100.0899658203125",
+                        "1026"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "21",
+            "descType": "sift",
+            "color": [
+                "94",
+                "88",
+                "90"
+            ],
+            "X": [
+                "1.6639645099639893",
+                "0.66646790504455566",
+                "0.77113759517669678"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "390",
+                    "x": [
+                        "2222.389892578125",
+                        "1126.0899658203125"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "538",
+                    "x": [
+                        "1080.219970703125",
+                        "983.75201416015625"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "22",
+            "descType": "sift",
+            "color": [
+                "38",
+                "28",
+                "26"
+            ],
+            "X": [
+                "0.94532215595245361",
+                "0.86476749181747437",
+                "0.81096875667572021"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "608",
+                    "x": [
+                        "1348.739990234375",
+                        "1272.6800537109375"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "650",
+                    "x": [
+                        "503.76901245117188",
+                        "1484.800048828125"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "23",
+            "descType": "sift",
+            "color": [
+                "108",
+                "107",
+                "112"
+            ],
+            "X": [
+                "1.6410149335861206",
+                "0.66825699806213379",
+                "0.77258539199829102"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "490",
+                    "x": [
+                        "2191.080078125",
+                        "1125.68994140625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "664",
+                    "x": [
+                        "1062.3199462890625",
+                        "993.281005859375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "24",
+            "descType": "sift",
+            "color": [
+                "77",
+                "60",
+                "50"
+            ],
+            "X": [
+                "0.89161235094070435",
+                "0.50696426630020142",
+                "0.7312740683555603"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "832",
+                    "x": [
+                        "1386.800048828125",
+                        "960.45599365234375"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "821",
+                    "x": [
+                        "351.0989990234375",
+                        "1199.989990234375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "25",
+            "descType": "sift",
+            "color": [
+                "41",
+                "9",
+                "10"
+            ],
+            "X": [
+                "0.65520578622817993",
+                "1.1304010152816772",
+                "0.92884588241577148"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "1114",
+                    "x": [
+                        "966.655029296875",
+                        "1393.6600341796875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "859",
+                    "x": [
+                        "275.35699462890625",
+                        "1773.47998046875"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "26",
+            "descType": "sift",
+            "color": [
+                "9",
+                "9",
+                "17"
+            ],
+            "X": [
+                "2.0373201370239258",
+                "1.4675536155700684",
+                "0.94914740324020386"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "496",
+                    "x": [
+                        "2240.139892578125",
+                        "1724.949951171875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "890",
+                    "x": [
+                        "1370.06005859375",
+                        "1392.97998046875"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "27",
+            "descType": "sift",
+            "color": [
+                "38",
+                "69",
+                "53"
+            ],
+            "X": [
+                "1.2647812366485596",
+                "0.60796505212783813",
+                "0.72985637187957764"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "1308",
+                    "x": [
+                        "1835.47998046875",
+                        "1091.6400146484375"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "1054",
+                    "x": [
+                        "763.5989990234375",
+                        "1120.81005859375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "28",
+            "descType": "sift",
+            "color": [
+                "185",
+                "175",
+                "173"
+            ],
+            "X": [
+                "0.96789407730102539",
+                "0.70080286264419556",
+                "0.77713072299957275"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "1079",
+                    "x": [
+                        "1413.3399658203125",
+                        "1138.760009765625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "1058",
+                    "x": [
+                        "483.56201171875",
+                        "1328.449951171875"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "29",
+            "descType": "sift",
+            "color": [
+                "68",
+                "68",
+                "68"
+            ],
+            "X": [
+                "1.6408392190933228",
+                "0.7037196159362793",
+                "0.78004121780395508"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "650",
+                    "x": [
+                        "2173.239990234375",
+                        "1157.969970703125"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "1084",
+                    "x": [
+                        "1065.6099853515625",
+                        "1021.1400146484375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "30",
+            "descType": "sift",
+            "color": [
+                "117",
+                "112",
+                "108"
+            ],
+            "X": [
+                "1.6949636936187744",
+                "0.67020934820175171",
+                "0.77349936962127686"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "775",
+                    "x": [
+                        "2253.68994140625",
+                        "1129.280029296875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "1116",
+                    "x": [
+                        "1101.72998046875",
+                        "973.91497802734375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "31",
+            "descType": "sift",
+            "color": [
+                "12",
+                "12",
+                "12"
+            ],
+            "X": [
+                "1.617763876914978",
+                "0.69601792097091675",
+                "0.77789449691772461"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "694",
+                    "x": [
+                        "2150.93994140625",
+                        "1150.199951171875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "1129",
+                    "x": [
+                        "1048.449951171875",
+                        "1024.8800048828125"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "32",
+            "descType": "sift",
+            "color": [
+                "63",
+                "30",
+                "25"
+            ],
+            "X": [
+                "0.74461960792541504",
+                "1.1444830894470215",
+                "0.94052165746688843"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "2977",
+                    "x": [
+                        "1038.530029296875",
+                        "1394.1700439453125"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "1147",
+                    "x": [
+                        "364.54299926757812",
+                        "1715.5"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "33",
+            "descType": "sift",
+            "color": [
+                "44",
+                "35",
+                "30"
+            ],
+            "X": [
+                "1.0010665655136108",
+                "0.72844988107681274",
+                "0.78386849164962769"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "472",
+                    "x": [
+                        "1440.9000244140625",
+                        "1162.0799560546875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "1193",
+                    "x": [
+                        "523.5679931640625",
+                        "1333.719970703125"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "34",
+            "descType": "sift",
+            "color": [
+                "168",
+                "159",
+                "152"
+            ],
+            "X": [
+                "0.94857370853424072",
+                "0.68006092309951782",
+                "0.7704206109046936"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "2088",
+                    "x": [
+                        "1400.9000244140625",
+                        "1123.9200439453125"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "1233",
+                    "x": [
+                        "458.322998046875",
+                        "1322.3800048828125"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "35",
+            "descType": "sift",
+            "color": [
+                "65",
+                "65",
+                "65"
+            ],
+            "X": [
+                "1.5350230932235718",
+                "0.62654358148574829",
+                "0.75565814971923828"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "772",
+                    "x": [
+                        "2104.639892578125",
+                        "1092.68994140625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "1510",
+                    "x": [
+                        "982.7230224609375",
+                        "1005.0800170898438"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "36",
+            "descType": "sift",
+            "color": [
+                "112",
+                "112",
+                "114"
+            ],
+            "X": [
+                "1.6542569398880005",
+                "0.69551265239715576",
+                "0.77848219871520996"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "1209",
+                    "x": [
+                        "2192.830078125",
+                        "1151.010009765625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "1629",
+                    "x": [
+                        "1074.530029296875",
+                        "1009.3699951171875"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "37",
+            "descType": "sift",
+            "color": [
+                "162",
+                "64",
+                "87"
+            ],
+            "X": [
+                "-1.3432115316390991",
+                "13.265615463256836",
+                "5.9472341537475586"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "1426",
+                    "x": [
+                        "212.60800170898438",
+                        "2270.89990234375"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "1657",
+                    "x": [
+                        "498.17001342773438",
+                        "2845.7099609375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "38",
+            "descType": "sift",
+            "color": [
+                "69",
+                "54",
+                "49"
+            ],
+            "X": [
+                "1.132049560546875",
+                "0.96550107002258301",
+                "0.84952312707901001"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "1319",
+                    "x": [
+                        "1493.5400390625",
+                        "1336.050048828125"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "1739",
+                    "x": [
+                        "689.4320068359375",
+                        "1441.469970703125"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "39",
+            "descType": "sift",
+            "color": [
+                "169",
+                "71",
+                "94"
+            ],
+            "X": [
+                "-0.1639055609703064",
+                "9.7334318161010742",
+                "4.4460048675537109"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "1888",
+                    "x": [
+                        "370.1199951171875",
+                        "2232.080078125"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "2025",
+                    "x": [
+                        "610.4429931640625",
+                        "2680.27001953125"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "40",
+            "descType": "sift",
+            "color": [
+                "182",
+                "79",
+                "98"
+            ],
+            "X": [
+                "0.39706376194953918",
+                "2.6422667503356934",
+                "1.6392335891723633"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "2787",
+                    "x": [
+                        "593.52398681640625",
+                        "1719.8299560546875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "2053",
+                    "x": [
+                        "366.47299194335938",
+                        "2144.989990234375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "41",
+            "descType": "sift",
+            "color": [
+                "87",
+                "74",
+                "57"
+            ],
+            "X": [
+                "0.50632810592651367",
+                "0.92587828636169434",
+                "0.8746979832649231"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "2426",
+                    "x": [
+                        "859.37298583984375",
+                        "1259.7099609375"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "2094",
+                    "x": [
+                        "51.598201751708984",
+                        "1732.52001953125"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "42",
+            "descType": "sift",
+            "color": [
+                "25",
+                "15",
+                "13"
+            ],
+            "X": [
+                "0.53350704908370972",
+                "0.77763491868972778",
+                "0.84479200839996338"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "1655",
+                    "x": [
+                        "900.94097900390625",
+                        "1146.1400146484375"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "2162",
+                    "x": [
+                        "30.97130012512207",
+                        "1587.2900390625"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "43",
+            "descType": "sift",
+            "color": [
+                "69",
+                "54",
+                "49"
+            ],
+            "X": [
+                "0.92197555303573608",
+                "0.87817257642745972",
+                "0.81506443023681641"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "1986",
+                    "x": [
+                        "1319.780029296875",
+                        "1282.27001953125"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "2163",
+                    "x": [
+                        "483.11199951171875",
+                        "1507.06005859375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "44",
+            "descType": "sift",
+            "color": [
+                "7",
+                "7",
+                "9"
+            ],
+            "X": [
+                "1.6468470096588135",
+                "0.6967850923538208",
+                "0.77830642461776733"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "1764",
+                    "x": [
+                        "2184.5",
+                        "1152.18994140625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "2198",
+                    "x": [
+                        "1069.68994140625",
+                        "1013.6400146484375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "45",
+            "descType": "sift",
+            "color": [
+                "109",
+                "105",
+                "96"
+            ],
+            "X": [
+                "1.2389856576919556",
+                "0.32114669680595398",
+                "0.66391998529434204"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "3659",
+                    "x": [
+                        "1947.199951171875",
+                        "794.4019775390625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "2205",
+                    "x": [
+                        "685.5059814453125",
+                        "863.99700927734375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "46",
+            "descType": "sift",
+            "color": [
+                "102",
+                "92",
+                "90"
+            ],
+            "X": [
+                "1.1797082424163818",
+                "0.983512282371521",
+                "0.85664087533950806"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "3672",
+                    "x": [
+                        "1532.47998046875",
+                        "1348.969970703125"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "2329",
+                    "x": [
+                        "730.05499267578125",
+                        "1425.5999755859375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "47",
+            "descType": "sift",
+            "color": [
+                "132",
+                "155",
+                "145"
+            ],
+            "X": [
+                "1.2590136528015137",
+                "0.53373962640762329",
+                "0.71266299486160278"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "3229",
+                    "x": [
+                        "1863.4300537109375",
+                        "1020"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "2895",
+                    "x": [
+                        "745.47998046875",
+                        "1057.6600341796875"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "48",
+            "descType": "sift",
+            "color": [
+                "80",
+                "80",
+                "80"
+            ],
+            "X": [
+                "1.6691783666610718",
+                "0.71086335182189941",
+                "0.78335201740264893"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "1819",
+                    "x": [
+                        "2198.64990234375",
+                        "1162.81005859375"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "3238",
+                    "x": [
+                        "1085.9200439453125",
+                        "1015.3900146484375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "49",
+            "descType": "sift",
+            "color": [
+                "92",
+                "127",
+                "121"
+            ],
+            "X": [
+                "1.2584137916564941",
+                "0.37552440166473389",
+                "0.67784392833709717"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "6730",
+                    "x": [
+                        "1939.8900146484375",
+                        "856.2860107421875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "3299",
+                    "x": [
+                        "713.84600830078125",
+                        "906.59600830078125"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "50",
+            "descType": "sift",
+            "color": [
+                "20",
+                "12",
+                "10"
+            ],
+            "X": [
+                "0.91105973720550537",
+                "0.64086931943893433",
+                "0.76045149564743042"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "1754",
+                    "x": [
+                        "1371.75",
+                        "1088.43994140625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "3422",
+                    "x": [
+                        "409.41900634765625",
+                        "1311.25"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "51",
+            "descType": "sift",
+            "color": [
+                "166",
+                "69",
+                "86"
+            ],
+            "X": [
+                "-0.21717342734336853",
+                "10.947423934936523",
+                "4.9062824249267578"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "3666",
+                    "x": [
+                        "363.99099731445312",
+                        "2267.4599609375"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "3463",
+                    "x": [
+                        "636.4940185546875",
+                        "2718.340087890625"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "52",
+            "descType": "sift",
+            "color": [
+                "143",
+                "96",
+                "112"
+            ],
+            "X": [
+                "1.6726750135421753",
+                "6.6538820266723633",
+                "3.0905463695526123"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "4859",
+                    "x": [
+                        "853.864013671875",
+                        "2205.580078125"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "3549",
+                    "x": [
+                        "983.71502685546875",
+                        "2287.52001953125"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "53",
+            "descType": "sift",
+            "color": [
+                "94",
+                "76",
+                "90"
+            ],
+            "X": [
+                "2.8535552024841309",
+                "9.0836992263793945",
+                "4.1040339469909668"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "3200",
+                    "x": [
+                        "986.64501953125",
+                        "2262.280029296875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "3636",
+                    "x": [
+                        "1158.68994140625",
+                        "2194.6298828125"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "54",
+            "descType": "sift",
+            "color": [
+                "130",
+                "110",
+                "101"
+            ],
+            "X": [
+                "0.89608156681060791",
+                "0.51874494552612305",
+                "0.73424816131591797"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "2166",
+                    "x": [
+                        "1388.050048828125",
+                        "972.0560302734375"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "3639",
+                    "x": [
+                        "359.33200073242188",
+                        "1207.9300537109375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "55",
+            "descType": "sift",
+            "color": [
+                "68",
+                "59",
+                "52"
+            ],
+            "X": [
+                "1.305127739906311",
+                "0.77841198444366455",
+                "0.75410932302474976"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "3375",
+                    "x": [
+                        "1838.6700439453125",
+                        "1259.6199951171875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "3683",
+                    "x": [
+                        "840.2249755859375",
+                        "1263.469970703125"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "56",
+            "descType": "sift",
+            "color": [
+                "79",
+                "52",
+                "45"
+            ],
+            "X": [
+                "0.67127126455307007",
+                "1.1301504373550415",
+                "0.92918306589126587"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "5334",
+                    "x": [
+                        "980.8380126953125",
+                        "1393.8199462890625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "3804",
+                    "x": [
+                        "290.81500244140625",
+                        "1762.1500244140625"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "57",
+            "descType": "sift",
+            "color": [
+                "21",
+                "22",
+                "16"
+            ],
+            "X": [
+                "1.6946004629135132",
+                "0.68788617849349976",
+                "0.77692973613739014"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "4068",
+                    "x": [
+                        "2244.800048828125",
+                        "1145.3699951171875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "3867",
+                    "x": [
+                        "1103.5400390625",
+                        "988.364990234375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "58",
+            "descType": "sift",
+            "color": [
+                "127",
+                "70",
+                "89"
+            ],
+            "X": [
+                "1.6720894575119019",
+                "6.5994477272033691",
+                "3.0705020427703857"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "4451",
+                    "x": [
+                        "856.594970703125",
+                        "2202.3701171875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "3994",
+                    "x": [
+                        "983.51702880859375",
+                        "2283.1201171875"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "59",
+            "descType": "sift",
+            "color": [
+                "24",
+                "14",
+                "12"
+            ],
+            "X": [
+                "0.96454882621765137",
+                "0.70049190521240234",
+                "0.77693831920623779"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "3187",
+                    "x": [
+                        "1409.9300537109375",
+                        "1138.5899658203125"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "3999",
+                    "x": [
+                        "480.093994140625",
+                        "1330.1300048828125"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "60",
+            "descType": "sift",
+            "color": [
+                "132",
+                "49",
+                "67"
+            ],
+            "X": [
+                "4.3481922149658203",
+                "12.103969573974609",
+                "4.8263778686523438"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "2026",
+                    "x": [
+                        "1172.9000244140625",
+                        "2542.340087890625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "4022",
+                    "x": [
+                        "1399.52001953125",
+                        "2329.6201171875"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "61",
+            "descType": "sift",
+            "color": [
+                "66",
+                "56",
+                "54"
+            ],
+            "X": [
+                "1.1847105026245117",
+                "1.0003659725189209",
+                "0.8612017035484314"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "4251",
+                    "x": [
+                        "1531.52001953125",
+                        "1359.5"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "4648",
+                    "x": [
+                        "737.19598388671875",
+                        "1435.4200439453125"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "62",
+            "descType": "sift",
+            "color": [
+                "146",
+                "61",
+                "80"
+            ],
+            "X": [
+                "0.57573860883712769",
+                "7.1039485931396484",
+                "3.3317489624023438"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "6946",
+                    "x": [
+                        "544.2550048828125",
+                        "2181.1201171875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "4807",
+                    "x": [
+                        "712.030029296875",
+                        "2510.659912109375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "63",
+            "descType": "sift",
+            "color": [
+                "170",
+                "72",
+                "95"
+            ],
+            "X": [
+                "0.62724894285202026",
+                "14.762738227844238",
+                "6.3121848106384277"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "5427",
+                    "x": [
+                        "485.98001098632812",
+                        "2369.68994140625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "4927",
+                    "x": [
+                        "825.2860107421875",
+                        "2677.6298828125"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "64",
+            "descType": "sift",
+            "color": [
+                "123",
+                "85",
+                "98"
+            ],
+            "X": [
+                "1.9878469705581665",
+                "7.5402522087097168",
+                "3.4241349697113037"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "4416",
+                    "x": [
+                        "888.48602294921875",
+                        "2250.989990234375"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "5241",
+                    "x": [
+                        "1047.0699462890625",
+                        "2288.3701171875"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "65",
+            "descType": "sift",
+            "color": [
+                "204",
+                "159",
+                "130"
+            ],
+            "X": [
+                "2.3403191566467285",
+                "6.6215534210205078",
+                "3.1890861988067627"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "4205",
+                    "x": [
+                        "1015.1599731445312",
+                        "2137.8798828125"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "5280",
+                    "x": [
+                        "1100.4000244140625",
+                        "2088.5"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "66",
+            "descType": "sift",
+            "color": [
+                "83",
+                "50",
+                "67"
+            ],
+            "X": [
+                "2.2532711029052734",
+                "6.4205694198608398",
+                "3.1168777942657471"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "5011",
+                    "x": [
+                        "1005.3699951171875",
+                        "2122.159912109375"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "5394",
+                    "x": [
+                        "1084.3399658203125",
+                        "2084.52001953125"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "67",
+            "descType": "sift",
+            "color": [
+                "28",
+                "18",
+                "9"
+            ],
+            "X": [
+                "2.1827192306518555",
+                "1.7393151521682739",
+                "1.0307737588882446"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "2801",
+                    "x": [
+                        "2220.800048828125",
+                        "1850.3800048828125"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "5691",
+                    "x": [
+                        "1433.3299560546875",
+                        "1473.93994140625"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "68",
+            "descType": "sift",
+            "color": [
+                "67",
+                "52",
+                "47"
+            ],
+            "X": [
+                "1.161229133605957",
+                "0.95054167509078979",
+                "0.84670877456665039"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "6329",
+                    "x": [
+                        "1526.9000244140625",
+                        "1327.8599853515625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "5854",
+                    "x": [
+                        "709.7509765625",
+                        "1412.5400390625"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "69",
+            "descType": "sift",
+            "color": [
+                "131",
+                "85",
+                "96"
+            ],
+            "X": [
+                "1.7530598640441895",
+                "6.9625515937805176",
+                "3.210465669631958"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "2479",
+                    "x": [
+                        "858.37701416015625",
+                        "2219.77001953125"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "5904",
+                    "x": [
+                        "1000.1099853515625",
+                        "2291.47998046875"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "70",
+            "descType": "sift",
+            "color": [
+                "152",
+                "49",
+                "68"
+            ],
+            "X": [
+                "3.9143264293670654",
+                "6.673677921295166",
+                "2.9135842323303223"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "3914",
+                    "x": [
+                        "1551.0400390625",
+                        "2359.64990234375"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "6484",
+                    "x": [
+                        "1506.1099853515625",
+                        "1974.9200439453125"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "71",
+            "descType": "sift",
+            "color": [
+                "34",
+                "25",
+                "18"
+            ],
+            "X": [
+                "0.62295794486999512",
+                "0.97181016206741333",
+                "0.88845908641815186"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "8858",
+                    "x": [
+                        "961.02001953125",
+                        "1290.9200439453125"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "6905",
+                    "x": [
+                        "196.04600524902344",
+                        "1684.22998046875"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "72",
+            "descType": "sift",
+            "color": [
+                "139",
+                "41",
+                "64"
+            ],
+            "X": [
+                "4.3023443222045898",
+                "6.3481869697570801",
+                "2.7791821956634521"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "4832",
+                    "x": [
+                        "1733.6199951171875",
+                        "2364.64990234375"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "6987",
+                    "x": [
+                        "1601.7099609375",
+                        "1882.260009765625"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "73",
+            "descType": "sift",
+            "color": [
+                "123",
+                "116",
+                "100"
+            ],
+            "X": [
+                "0.64864516258239746",
+                "1.0960155725479126",
+                "0.92171168327331543"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "4756",
+                    "x": [
+                        "964.56402587890625",
+                        "1367.3399658203125"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "7113",
+                    "x": [
+                        "260.81698608398438",
+                        "1753.93994140625"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "74",
+            "descType": "sift",
+            "color": [
+                "75",
+                "65",
+                "63"
+            ],
+            "X": [
+                "1.1805882453918457",
+                "0.98832541704177856",
+                "0.8579135537147522"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "9926",
+                    "x": [
+                        "1531.68994140625",
+                        "1351.949951171875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "7348",
+                    "x": [
+                        "731.697021484375",
+                        "1428.77001953125"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "75",
+            "descType": "sift",
+            "color": [
+                "142",
+                "114",
+                "129"
+            ],
+            "X": [
+                "2.2513761520385742",
+                "6.3926229476928711",
+                "3.107792854309082"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "5276",
+                    "x": [
+                        "1006.5499877929688",
+                        "2119.330078125"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "7671",
+                    "x": [
+                        "1084.010009765625",
+                        "2081.590087890625"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "76",
+            "descType": "sift",
+            "color": [
+                "175",
+                "77",
+                "100"
+            ],
+            "X": [
+                "0.16565504670143127",
+                "6.5340862274169922",
+                "3.1522111892700195"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "5510",
+                    "x": [
+                        "443.08599853515625",
+                        "2125.580078125"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "7895",
+                    "x": [
+                        "577.92999267578125",
+                        "2555.489990234375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "77",
+            "descType": "sift",
+            "color": [
+                "153",
+                "55",
+                "78"
+            ],
+            "X": [
+                "0.048189565539360046",
+                "8.3941831588745117",
+                "3.8883981704711914"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "10100",
+                    "x": [
+                        "410.75",
+                        "2203.85009765625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "7980",
+                    "x": [
+                        "618.11798095703125",
+                        "2633.090087890625"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "78",
+            "descType": "sift",
+            "color": [
+                "23",
+                "13",
+                "11"
+            ],
+            "X": [
+                "0.97472107410430908",
+                "0.68018794059753418",
+                "0.77234798669815063"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "12526",
+                    "x": [
+                        "1426.8199462890625",
+                        "1118.760009765625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "8257",
+                    "x": [
+                        "486.79299926757812",
+                        "1309.0699462890625"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "79",
+            "descType": "sift",
+            "color": [
+                "67",
+                "57",
+                "55"
+            ],
+            "X": [
+                "0.89032590389251709",
+                "0.6318899393081665",
+                "0.75877988338470459"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "5768",
+                    "x": [
+                        "1350.6300048828125",
+                        "1079.8199462890625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "8345",
+                    "x": [
+                        "384.41598510742188",
+                        "1314.47998046875"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "80",
+            "descType": "sift",
+            "color": [
+                "169",
+                "71",
+                "94"
+            ],
+            "X": [
+                "0.17445816099643707",
+                "5.1152162551879883",
+                "2.6064589023590088"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "13186",
+                    "x": [
+                        "453.65399169921875",
+                        "2026.5400390625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "8801",
+                    "x": [
+                        "501.875",
+                        "2476.820068359375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "81",
+            "descType": "sift",
+            "color": [
+                "27",
+                "17",
+                "15"
+            ],
+            "X": [
+                "0.94697928428649902",
+                "0.60390311479568481",
+                "0.75434708595275879"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "7627",
+                    "x": [
+                        "1419.5699462890625",
+                        "1051.97998046875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "9481",
+                    "x": [
+                        "438.22100830078125",
+                        "1257.0799560546875"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "82",
+            "descType": "sift",
+            "color": [
+                "20",
+                "20",
+                "20"
+            ],
+            "X": [
+                "1.6240304708480835",
+                "0.68434768915176392",
+                "0.77487128973007202"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "6300",
+                    "x": [
+                        "2165.550048828125",
+                        "1140.760009765625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "9704",
+                    "x": [
+                        "1052.31005859375",
+                        "1013.3400268554688"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "83",
+            "descType": "sift",
+            "color": [
+                "72",
+                "62",
+                "60"
+            ],
+            "X": [
+                "1.1702189445495605",
+                "0.98422449827194214",
+                "0.85509324073791504"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "13349",
+                    "x": [
+                        "1525.0699462890625",
+                        "1350.72998046875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "9932",
+                    "x": [
+                        "723.5150146484375",
+                        "1433.280029296875"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "84",
+            "descType": "sift",
+            "color": [
+                "88",
+                "90",
+                "79"
+            ],
+            "X": [
+                "1.2479149103164673",
+                "0.49404162168502808",
+                "0.70281076431274414"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "13515",
+                    "x": [
+                        "1870.3599853515625",
+                        "980.47998046875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "10563",
+                    "x": [
+                        "728.3070068359375",
+                        "1027.300048828125"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "85",
+            "descType": "sift",
+            "color": [
+                "150",
+                "95",
+                "98"
+            ],
+            "X": [
+                "0.45924109220504761",
+                "1.1776539087295532",
+                "0.96060991287231445"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "8251",
+                    "x": [
+                        "779.11602783203125",
+                        "1396.8399658203125"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "10660",
+                    "x": [
+                        "92.089897155761719",
+                        "1900.1800537109375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "86",
+            "descType": "sift",
+            "color": [
+                "45",
+                "30",
+                "25"
+            ],
+            "X": [
+                "1.0899927616119385",
+                "1.0398350954055786",
+                "0.87402182817459106"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "5526",
+                    "x": [
+                        "1421.7099609375",
+                        "1380.25"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "10801",
+                    "x": [
+                        "662.64300537109375",
+                        "1508.010009765625"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "87",
+            "descType": "sift",
+            "color": [
+                "60",
+                "50",
+                "48"
+            ],
+            "X": [
+                "1.1294151544570923",
+                "1.032685399055481",
+                "0.87263727188110352"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "6065",
+                    "x": [
+                        "1462.030029296875",
+                        "1376.3900146484375"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "11100",
+                    "x": [
+                        "694.29998779296875",
+                        "1481.81005859375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "88",
+            "descType": "sift",
+            "color": [
+                "168",
+                "70",
+                "93"
+            ],
+            "X": [
+                "-0.70865941047668457",
+                "11.379161834716797",
+                "5.1388778686523438"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "11669",
+                    "x": [
+                        "285.78500366210938",
+                        "2253.489990234375"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "13012",
+                    "x": [
+                        "553.656982421875",
+                        "2771.669921875"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "89",
+            "descType": "sift",
+            "color": [
+                "147",
+                "137",
+                "135"
+            ],
+            "X": [
+                "1.206886887550354",
+                "0.29703935980796814",
+                "0.65059244632720947"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "187",
+                    "x": [
+                        "1936.760009765625",
+                        "771.406982421875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "232",
+                    "x": [
+                        "651.43701171875",
+                        "857.77001953125"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "90",
+            "descType": "sift",
+            "color": [
+                "133",
+                "135",
+                "122"
+            ],
+            "X": [
+                "1.7014710903167725",
+                "0.69197732210159302",
+                "0.77790969610214233"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "242",
+                    "x": [
+                        "2250.6298828125",
+                        "1149.530029296875"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "508",
+                    "x": [
+                        "1108.5799560546875",
+                        "988.60601806640625"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "91",
+            "descType": "sift",
+            "color": [
+                "27",
+                "80",
+                "64"
+            ],
+            "X": [
+                "1.258552074432373",
+                "0.36548668146133423",
+                "0.67523342370986938"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "1394",
+                    "x": [
+                        "1946.1800537109375",
+                        "844.166015625"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "1168",
+                    "x": [
+                        "712.99298095703125",
+                        "898.16802978515625"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "92",
+            "descType": "sift",
+            "color": [
+                "70",
+                "71",
+                "65"
+            ],
+            "X": [
+                "1.6044187545776367",
+                "0.69382685422897339",
+                "0.77607780694961548"
+            ],
+            "observations": [
+                {
+                    "observationId": "342196849",
+                    "featureId": "1284",
+                    "x": [
+                        "2139.550048828125",
+                        "1149.1800537109375"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "874908085",
+                    "featureId": "1287",
+                    "x": [
+                        "1039.4100341796875",
+                        "1029.239990234375"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        }
+    ]
+}

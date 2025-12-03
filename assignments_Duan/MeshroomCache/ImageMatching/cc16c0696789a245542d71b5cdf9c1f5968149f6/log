@@ -1,0 +1,18 @@
+Program called with the following parameters:
+ * featuresFolders =  = [D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/FeatureExtraction/e2dfb138b078d47d14ed89da42f5697d21e57db4]
+ * input = "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/CameraInit/6e9322eb8e9d719112316dfef2ff7b33d1fd18de/cameraInit.sfm"
+ * matchingMode = "a/a" (default)
+ * maxDescriptors = 500
+ * method =  Unknown Type "enum EImageMatchingMethod"
+ * minNbImages = 200
+ * nbMatches = 50
+ * nbNeighbors = 50 (default)
+ * output = "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/ImageMatching/cc16c0696789a245542d71b5cdf9c1f5968149f6/imageMatches.txt"
+ * outputCombinedSfM = "" (default)
+ * tree = "D:\MeshroomCL-0.9.0\aliceVision\share\aliceVision\vlfeat_K80L3.SIFT.tree"
+ * verboseLevel = "info"
+ * weights = ""
+
+[16:09:39.489342][info] Use EXHAUSTIVE method.
+[16:09:39.489342][info] Number of selected image pairs: 55
+[16:09:39.489342][info] pairList exported in: D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/ImageMatching/cc16c0696789a245542d71b5cdf9c1f5968149f6/imageMatches.txt

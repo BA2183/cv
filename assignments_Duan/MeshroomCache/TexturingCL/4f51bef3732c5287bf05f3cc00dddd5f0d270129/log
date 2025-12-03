@@ -1,0 +1,100 @@
+Program called with the following parameters:
+ * inputMesh = "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/MeshFiltering/739c1a891bcda04e26120e1ff31e6ca62d04e432/mesh.obj"
+ * output = "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/TexturingCL/4f51bef3732c5287bf05f3cc00dddd5f0d270129\mesh.ply"
+ * verboseLevel = "info" (default)
+
+[18:24:58.193207][info] Geogram initialized.
+[18:24:58.197487][info] Convert mesh.
+[18:24:58.197487][info] Mesh file: "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/TexturingCL/4f51bef3732c5287bf05f3cc00dddd5f0d270129\mesh.ply" saved.
+[18:24:58.197487][info] Task done in (s): 0.005000
+o-[I/O         ] Loading file D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/MeshFiltering/739c1a891bcda04e26120e1ff31e6ca62d04e432/mesh.obj...
+                 (FP64) nb_v:11 nb_e:0 nb_f:9 nb_b:11 tri:1 dim:3
+                 Attributes on vertices: point[3]
+                 Saving file D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/TexturingCL/4f51bef3732c5287bf05f3cc00dddd5f0d270129\mesh.ply...
+meshroomCL_texrecon (built on May 20 2021, 16:49:01)
+Load and prepare mesh: 
+PLY Loader: comment vorpaline algo:delaunay=NN
+PLY Loader: comment vorpaline algo:hole_filling=loop_split
+PLY Loader: comment vorpaline algo:nn_search=BNN
+PLY Loader: comment vorpaline algo:parallel=true
+PLY Loader: comment vorpaline algo:predicates=fast
+PLY Loader: comment vorpaline algo:reconstruct=Co3Ne
+PLY Loader: comment vorpaline biblio=false
+PLY Loader: comment vorpaline biblio:command_line=false
+PLY Loader: comment vorpaline debug=false
+PLY Loader: comment vorpaline log:features=*
+PLY Loader: comment vorpaline log:features_exclude=
+PLY Loader: comment vorpaline log:file_name=
+PLY Loader: comment vorpaline log:pretty=true
+PLY Loader: comment vorpaline log:quiet=false
+PLY Loader: comment vorpaline nl:CUDA=false
+PLY Loader: comment vorpaline nl:MKL=false
+PLY Loader: comment vorpaline profile=scan
+PLY Loader: comment vorpaline sys:FPE=false
+PLY Loader: comment vorpaline sys:ascii=false
+PLY Loader: comment vorpaline sys:assert=throw
+PLY Loader: comment vorpaline sys:cancel=false
+PLY Loader: comment vorpaline sys:compression_level=3
+PLY Loader: comment vorpaline sys:lowmem=false
+PLY Loader: comment vorpaline sys:max_threads=14
+PLY Loader: comment vorpaline sys:multithread=true
+PLY Loader: comment vorpaline sys:show_win32_console=false
+PLY Loader: comment vorpaline sys:stats=false
+PLY Loader: comment vorpaline sys:use_doubles=false
+Reading PLY: 11 verts... 9 faces... done.
+Generating texture views: 
+
+                                                                                
+	Loading 100%... done. (Took 0.002s)
+Building adjacency graph: 
+
+                                                                                
+	Adding edges 100%... done. (Took 0s)
+	8 total edges.
+View selection:
+	Building BVH from 9 faces... done. (Took: 3 ms)
+
+                                                                                
+	Calculating face qualities 100%... done. (Took 0.265s)
+
+                                                                                
+	Postprocessing face infos 100%... done. (Took 0s)
+	Maximum quality of a face within an image: 7299.88
+	Clamping qualities to 7299.88 within normalization.
+	Optimizing:
+		Time[s]	Energy
+		0	7
+		0	7
+		0	7
+		0	7
+		0	7
+		0	7
+		0	7
+	7 faces have not been seen
+	Took: 0.271s
+Generating texture patches:
+	Running... done. (Took 0.125s)
+	2 texture patches.
+Running global seam leveling:
+	Create matrices for optimization...  done.
+	Lhs dimensionality: 6 x 6
+	Calculating adjustments:
+		Color channel 0: CG took 0 iterations. Residual is 0
+		Color channel 1: CG took 0 iterations. Residual is 0
+		Color channel 2: CG took 0 iterations. Residual is 0
+		Took 0 seconds
+
+                                                                                
+	Adjusting texture patches 100%... done. (Took 0.031s)
+Running local seam leveling:
+
+                                                                                
+	Blending texture patches 100%... done. (Took 0.294s)
+Generating texture atlases:
+	Sorting texture patches... done.
+
+	Working on atlas 1 100%... done.
+	Finalizing texture atlases... done. (Took: 0s)
+Building objmodel:
+	Saving model... done.
+Whole texturing procedure took: 0.871s

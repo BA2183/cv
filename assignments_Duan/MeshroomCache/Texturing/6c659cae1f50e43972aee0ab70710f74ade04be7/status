@@ -1,0 +1,19 @@
+{
+    "nodeName": "Texturing_1",
+    "nodeType": "Texturing",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "mrNodeType": "COMMANDLINE",
+    "sessionUid": null,
+    "submitterSessionUid": "bd8f1584-c01a-11f0-8541-8b0ee4b93c1c",
+    "execMode": "LOCAL",
+    "status": "NONE",
+    "graph": "",
+    "commandLine": "",
+    "env": "",
+    "startDateTime": "",
+    "endDateTime": "",
+    "elapsedTime": 0.0,
+    "hostname": "",
+    "elapsedTimeStr": "0:00:00"
+}

@@ -1,0 +1,19 @@
+{
+    "nodeName": "ImageDetectionPrompt_1",
+    "nodeType": "ImageDetectionPrompt",
+    "packageName": "imageSegmentation",
+    "packageVersion": null,
+    "mrNodeType": "NODE",
+    "sessionUid": "4bf1ddf5-c01b-11f0-9b48-8b0ee4b93c1c",
+    "submitterSessionUid": "bd8f1584-c01a-11f0-8541-8b0ee4b93c1c",
+    "execMode": "LOCAL",
+    "status": "SUCCESS",
+    "graph": "",
+    "commandLine": "D:/Duan_OneDrive/OneDrive/Desktop/Meshroom-2025.1.0/meshroom_compute D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/HW10_EX2.mg --node ImageDetectionPrompt_1 --extern --inCurrentEnv",
+    "env": "",
+    "startDateTime": "2025-11-12 15:59:52.123451",
+    "endDateTime": "2025-11-12 16:00:52.400825",
+    "elapsedTime": 60.27737331390381,
+    "hostname": "DESKTOP-2GPQ0N0",
+    "elapsedTimeStr": "0:01:00.277373"
+}

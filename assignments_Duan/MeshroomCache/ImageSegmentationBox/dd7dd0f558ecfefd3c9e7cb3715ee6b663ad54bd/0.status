@@ -1,0 +1,19 @@
+{
+    "nodeName": "ImageSegmentationBox_1",
+    "nodeType": "ImageSegmentationBox",
+    "packageName": "imageSegmentation",
+    "packageVersion": null,
+    "mrNodeType": "NODE",
+    "sessionUid": "71d8aeec-c01b-11f0-8582-8b0ee4b93c1c",
+    "submitterSessionUid": "bd8f1584-c01a-11f0-8541-8b0ee4b93c1c",
+    "execMode": "LOCAL",
+    "status": "STOPPED",
+    "graph": "",
+    "commandLine": "D:/Duan_OneDrive/OneDrive/Desktop/Meshroom-2025.1.0/meshroom_compute D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/HW10_EX2.mg --node ImageSegmentationBox_1 --extern --inCurrentEnv",
+    "env": "",
+    "startDateTime": "2025-11-12 16:00:55.716431",
+    "endDateTime": "",
+    "elapsedTime": 0.0,
+    "hostname": "DESKTOP-2GPQ0N0",
+    "elapsedTimeStr": "0:00:00"
+}

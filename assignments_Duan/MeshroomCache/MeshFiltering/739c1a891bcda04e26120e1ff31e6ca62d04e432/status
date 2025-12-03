@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "MeshFiltering_1",
+    "nodeType": "MeshFiltering",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_meshFiltering  --inputMesh \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/MultiviewStereoCL/fc880e22238fcc3dffe70cd95845a9b5bf0ca715/mesh.obj\" --keepLargestMeshOnly False --smoothingSubset all --smoothingBoundariesNeighbours 0 --smoothingIterations 5 --smoothingLambda 1.0 --filteringSubset all --filteringIterations 1 --filterLargeTrianglesFactor 60.0 --filterTrianglesRatio 0.0 --verboseLevel info --outputMesh \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/MeshFiltering/739c1a891bcda04e26120e1ff31e6ca62d04e432/mesh.obj\"",
+    "env": null,
+    "startDateTime": "2025-11-12 18:24:57.509826",
+    "endDateTime": "2025-11-12 18:24:57.860398",
+    "elapsedTime": 0.3505723476409912,
+    "hostname": "DESKTOP-2GPQ0N0",
+    "sessionUid": "189d9606-c02b-11f0-9912-8b0ee4b93c1c",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:00.350572"
+}

@@ -1,0 +1,54 @@
+<html><head>
+<link rel="stylesheet" type="text/css" href="http://jsxgraph.uni-bayreuth.de/distrib/jsxgraph.css" />
+<link rel="stylesheet" type="text/css" href="http://imagine.enpc.fr/~moulonp/style.css" /><script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.93/jsxgraphcore.js"></script>
+<title>[log] Sequential SfM reconstruction</title>
+</head>
+<h1>[log] Sequential SfM reconstruction</h1>
+<hr>Dataset info:Views count: 11<br><h3>Essential Matrix.</h3>
+
+<b>Robust Essential matrix:</b><br>-> View I:<br>id: 483328431<br>image path: D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex4_8.jpg<br>-> View J:<br>id: 1828385752<br>image path: D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex4_4.jpg<br><br>- Threshold: 11.7643<br>- Resection status: OK<br>- # points used for robust Essential matrix estimation: 151<br>- # points validated by robust estimation: 143<br>- % points validated: 0.94702<br><h3>Initial triangulation - Residual of the robust estimation.<br>Thresholded at: 11.7643</h3>
+<h3>Histogram of residuals</h3>
+
+<div id="InitialPairTriangulationKeptInfo" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('InitialPairTriangulationKeptInfo', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [0.00000,0.57143,1.14286,1.71429,2.28571,2.85714,3.42857,4.00000,];
+var data1= [152.00000,71.00000,35.00000,20.00000,4.00000,2.00000,2.00000,0.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1],strokeColor:'#0000ff',highlightStrokeColor:'#0000ff'});
+var p2 = board.create('point',[11.76430,0.00000], {fixed:true});
+var p3 = board.create('point',[11.76430,152.00000], {fixed:true});
+var li = board.create('line',[p2,p3], {strokeColor:'00ff00',strokeWidth:2});
+board.unsuspendUpdate();
+board.setBoundingBox([-0.80000,182.40000,4.80000,-30.40000]);
+</script>
+<hr><h4>Robust resection of view 57582903: <br></h4>
+
+- Image path: D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex4_2.jpg<br>- Threshold (error max): 3.19412<br>- Resection status: OK<br>- # points used for Resection: 44<br>- # points validated by robust estimation: 41<br>- % points validated: 0.931818<br><h4>Robust resection of view 484647371: <br></h4>
+
+- Image path: D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex4_3.jpg<br>- Threshold (error max): 3.78148<br>- Resection status: OK<br>- # points used for Resection: 59<br>- # points validated by robust estimation: 59<br>- % points validated: 1<br><hr><h3>Structure from Motion process finished.</h3>
+Structure from Motion statistics:<br>- # input images: 11<br>- # camera calibrated: 4<br>- # poses: 4
+<br>- # landmarks: 368<br>- elapsed time: 0.153<br>- residual RMSE: 0.457113<h2>Histogram of reprojection-residuals</h2>
+
+<div id="3DtoImageResiduals" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('3DtoImageResiduals', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [0.00000,0.57143,1.14286,1.71429,2.28571,2.85714,3.42857,4.00000,];
+var data1= [499.00000,250.00000,68.00000,16.00000,2.00000,2.00000,1.00000,0.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1],strokeColor:'#0000ff',highlightStrokeColor:'#0000ff'});
+board.unsuspendUpdate();
+board.setBoundingBox([-0.80000,598.80000,4.80000,-99.80000]);
+</script>
+
+<div id="3DtoTracksSize" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('3DtoTracksSize', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [2.00000,3.50000,5.00000,];
+var data1= [288.00000,58.00000,22.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1],strokeColor:'#0000ff',highlightStrokeColor:'#0000ff'});
+board.unsuspendUpdate();
+board.setBoundingBox([1.40000,341.20000,5.60000,-31.20000]);
+</script>
+</html>

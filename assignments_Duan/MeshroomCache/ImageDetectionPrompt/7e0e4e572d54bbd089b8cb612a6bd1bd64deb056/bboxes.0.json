@@ -1,0 +1,132 @@
+{
+    "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex2_0.jpg": {
+        "bboxes": [],
+        "confidence": [],
+        "tags": [
+            "cape",
+            "comic book character",
+            "number",
+            "figurine",
+            "miniature",
+            "superhero",
+            "sword",
+            "television",
+            "toy"
+        ],
+        "prompt": [
+            "person"
+        ],
+        "synonyms": [
+            "man",
+            "woman",
+            "boy",
+            "girl",
+            "human",
+            "people"
+        ]
+    },
+    "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex2_4.jpg": {
+        "bboxes": [],
+        "confidence": [],
+        "tags": [
+            "cape",
+            "computer",
+            "keyboard",
+            "table",
+            "doll",
+            "figurine",
+            "laptop",
+            "laptop keyboard",
+            "miniature",
+            "shoe",
+            "superhero",
+            "toy",
+            "typewriter"
+        ],
+        "prompt": [
+            "person"
+        ],
+        "synonyms": [
+            "man",
+            "woman",
+            "boy",
+            "girl",
+            "human",
+            "people"
+        ]
+    },
+    "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex2_2.jpg": {
+        "bboxes": [],
+        "confidence": [],
+        "tags": [
+            "cape",
+            "comic book character",
+            "number",
+            "figurine",
+            "miniature",
+            "superhero",
+            "toy"
+        ],
+        "prompt": [
+            "person"
+        ],
+        "synonyms": [
+            "man",
+            "woman",
+            "boy",
+            "girl",
+            "human",
+            "people"
+        ]
+    },
+    "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex2_1.jpg": {
+        "bboxes": [],
+        "confidence": [],
+        "tags": [
+            "comic book character",
+            "number",
+            "figurine",
+            "gun",
+            "superhero",
+            "sword",
+            "toy",
+            "toy gun",
+            "weapon"
+        ],
+        "prompt": [
+            "person"
+        ],
+        "synonyms": [
+            "man",
+            "woman",
+            "boy",
+            "girl",
+            "human",
+            "people"
+        ]
+    },
+    "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex2_3.jpg": {
+        "bboxes": [],
+        "confidence": [],
+        "tags": [
+            "cake",
+            "number",
+            "figurine",
+            "gun",
+            "miniature",
+            "sword",
+            "toy"
+        ],
+        "prompt": [
+            "person"
+        ],
+        "synonyms": [
+            "man",
+            "woman",
+            "boy",
+            "girl",
+            "human",
+            "people"
+        ]
+    }
+}

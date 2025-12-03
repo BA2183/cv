@@ -1,0 +1,15 @@
+[2025-11-12 15:59:51.723075] [0x00004db8] [trace]   Embedded OCIO configuration file: 'D:\Duan_OneDrive\OneDrive\Desktop\Meshroom-2025.1.0\aliceVision/share/aliceVision/config.ocio' found.
+Program called with the following parameters:
+ * calibration = ""
+ * input = "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/CameraInit/0dd2d54478de5e5cf94947ddec13941d057c5fae/cameraInit.sfm"
+ * maxCoresAvailable =  Unknown Type "unsigned int" (default)
+ * maxMemoryAvailable = 18446744073709551615 (default)
+ * output = "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/ApplyCalibration/8dffba61c190bca8a7f7c75e01584cbca8404c16/sfmData.sfm"
+ * useJson = 0
+ * verboseLevel = "info"
+
+[15:59:51.733072][info] Hardware:
+[15:59:51.733072][info] 	Detected core count: 14
+[15:59:51.733072][info] 	OpenMP will use 14 cores
+[15:59:51.733072][info] 	Detected available memory: 3844 Mo
+[15:59:51.733072][info] 

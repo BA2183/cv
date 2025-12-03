@@ -1,0 +1,395 @@
+{
+    "version": [
+        "1",
+        "0",
+        "0"
+    ],
+    "featuresFolders": [
+        "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/StructureFromMotionCL/0e6d0894945ddeb4f1524b2ffdaa747d72bd55af"
+    ],
+    "matchesFolders": [
+        "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/StructureFromMotionCL/0e6d0894945ddeb4f1524b2ffdaa747d72bd55af"
+    ],
+    "views": [
+        {
+            "viewId": "212707290",
+            "poseId": "212707290",
+            "intrinsicId": "1407611872",
+            "path": "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex2_0.jpg",
+            "width": "3072",
+            "height": "4080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "13005",
+                "Item:Mime": "image/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "336223878",
+            "poseId": "336223878",
+            "intrinsicId": "1407611872",
+            "path": "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex2_1.jpg",
+            "width": "3072",
+            "height": "4080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "4705",
+                "Item:Mime": "image/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        },
+        {
+            "viewId": "372370055",
+            "poseId": "372370055",
+            "intrinsicId": "1407611872",
+            "path": "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image/ex2_4.jpg",
+            "width": "3072",
+            "height": "4080",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "ICCProfile": "0, 0, 1, 200, 0, 0, 0, 0, 4, 48, 0, 0, 109, 110, 116, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [456 x uint8]",
+                "Item:Length": "20266",
+                "Item:Mime": "image/jpeg",
+                "Item:Semantic": "GainMap",
+                "ResolutionUnit": "none",
+                "XResolution": "1",
+                "YResolution": "1",
+                "hdrgm:Version": "1.0",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB",
+                "rdf:parseType": "Resource"
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": "1407611872",
+            "width": "3072",
+            "height": "4080",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.75294117647058822",
+            "serialNumber": "D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/hw10_image",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "3163.32",
+            "principalPoint": [
+                "313.337",
+                "2681.27"
+            ],
+            "distortionParams": [
+                "-2.71315",
+                "5.14954",
+                "0.0"
+            ],
+            "locked": "0"
+        }
+    ],
+    "poses": [
+        {
+            "poseId": "372370055",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "1.0",
+                        "0.0",
+                        "0.0",
+                        "0.0",
+                        "1.0",
+                        "0.0",
+                        "0.0",
+                        "0.0",
+                        "1.0"
+                    ],
+                    "center": [
+                        "-2.65525",
+                        "-2.99986",
+                        "-2.99173"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "212707290",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.819620268289334",
+                        "0.29841864071872226",
+                        "-0.4890490064205328",
+                        "-0.5639240409872547",
+                        "0.26966113246033296",
+                        "-0.7805591262914141",
+                        "-0.10105588456851577",
+                        "0.9155485724481257",
+                        "0.38930517551436933"
+                    ],
+                    "center": [
+                        "2.6552485067096177",
+                        "2.999863544632457",
+                        "2.9917339523135302"
+                    ]
+                },
+                "locked": "0"
+            }
+        }
+    ],
+    "structure": [
+        {
+            "landmarkId": "24",
+            "descType": "sift",
+            "color": [
+                "170",
+                "137",
+                "120"
+            ],
+            "X": [
+                "1.40818",
+                "1.22372",
+                "5.64591"
+            ],
+            "observations": [
+                {
+                    "observationId": "372370055",
+                    "featureId": "597",
+                    "x": [
+                        "1000.0",
+                        "1000.0"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "212707290",
+                    "featureId": "4280",
+                    "x": [
+                        "1000.0",
+                        "1000.0"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "57",
+            "descType": "sift",
+            "color": [
+                "237",
+                "221",
+                "198"
+            ],
+            "X": [
+                "2.07145",
+                "-2.18474",
+                "7.43741"
+            ],
+            "observations": [
+                {
+                    "observationId": "372370055",
+                    "featureId": "1314",
+                    "x": [
+                        "1000.0",
+                        "1000.0"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "212707290",
+                    "featureId": "532",
+                    "x": [
+                        "1000.0",
+                        "1000.0"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "25",
+            "descType": "sift",
+            "color": [
+                "166",
+                "138",
+                "126"
+            ],
+            "X": [
+                "2.10863",
+                "-2.36397",
+                "7.42587"
+            ],
+            "observations": [
+                {
+                    "observationId": "372370055",
+                    "featureId": "607",
+                    "x": [
+                        "1000.0",
+                        "1000.0"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "212707290",
+                    "featureId": "300",
+                    "x": [
+                        "1000.0",
+                        "1000.0"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "47",
+            "descType": "sift",
+            "color": [
+                "172",
+                "144",
+                "132"
+            ],
+            "X": [
+                "2.10132",
+                "-1.98474",
+                "7.37414"
+            ],
+            "observations": [
+                {
+                    "observationId": "372370055",
+                    "featureId": "1207",
+                    "x": [
+                        "1000.0",
+                        "1000.0"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "212707290",
+                    "featureId": "492",
+                    "x": [
+                        "1000.0",
+                        "1000.0"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "52",
+            "descType": "sift",
+            "color": [
+                "182",
+                "163",
+                "157"
+            ],
+            "X": [
+                "-0.792979",
+                "-3.82914",
+                "7.91381"
+            ],
+            "observations": [
+                {
+                    "observationId": "372370055",
+                    "featureId": "1286",
+                    "x": [
+                        "1000.0",
+                        "1000.0"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "212707290",
+                    "featureId": "878",
+                    "x": [
+                        "1000.0",
+                        "1000.0"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "54",
+            "descType": "sift",
+            "color": [
+                "200",
+                "175",
+                "168"
+            ],
+            "X": [
+                "-1.5319",
+                "-3.45747",
+                "8.40067"
+            ],
+            "observations": [
+                {
+                    "observationId": "372370055",
+                    "featureId": "1299",
+                    "x": [
+                        "1000.0",
+                        "1000.0"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "212707290",
+                    "featureId": "1164",
+                    "x": [
+                        "1000.0",
+                        "1000.0"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        },
+        {
+            "landmarkId": "67",
+            "descType": "sift",
+            "color": [
+                "195",
+                "180",
+                "157"
+            ],
+            "X": [
+                "2.89121",
+                "-1.33331",
+                "6.29594"
+            ],
+            "observations": [
+                {
+                    "observationId": "372370055",
+                    "featureId": "1539",
+                    "x": [
+                        "1000.0",
+                        "1000.0"
+                    ],
+                    "scale": "0"
+                },
+                {
+                    "observationId": "212707290",
+                    "featureId": "793",
+                    "x": [
+                        "1000.0",
+                        "1000.0"
+                    ],
+                    "scale": "0"
+                }
+            ]
+        }
+    ]
+}

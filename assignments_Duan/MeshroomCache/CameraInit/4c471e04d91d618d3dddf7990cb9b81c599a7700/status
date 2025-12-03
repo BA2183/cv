@@ -1,0 +1,20 @@
+{
+    "nodeName": "CameraInit_2",
+    "nodeType": "CameraInit",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "mrNodeType": "COMMANDLINE",
+    "sessionUid": "bd8f1584-c01a-11f0-8541-8b0ee4b93c1c",
+    "submitterSessionUid": "bd8f1584-c01a-11f0-8541-8b0ee4b93c1c",
+    "execMode": "LOCAL",
+    "status": "NONE",
+    "graph": "",
+    "commandLine": "aliceVision_cameraInit  --sensorDatabase \"D:\\Duan_OneDrive\\OneDrive\\Desktop\\Meshroom-2025.1.0\\aliceVision\\share\\aliceVision\\cameraSensors.db\" --lensCorrectionProfileInfo \"${ALICEVISION_LENS_PROFILE_INFO}\" --lensCorrectionProfileSearchIgnoreCameraModel True --defaultFieldOfView 45.0 --groupCameraFallback \"folder\" --rawColorInterpretation \"LibRawWhiteBalancing\" --viewIdMethod \"metadata\" --verboseLevel \"info\" --output \"D:/Duan_OneDrive/OneDrive/Documents/cv/assignments_Duan/MeshroomCache/CameraInit/4c471e04d91d618d3dddf7990cb9b81c599a7700/cameraInit.sfm\" --allowSingleView 1",
+    "env": "",
+    "startDateTime": "2025-11-12 15:58:59.284362",
+    "endDateTime": "2025-11-12 15:59:00.285182",
+    "elapsedTime": 1.0008201599121094,
+    "hostname": "DESKTOP-2GPQ0N0",
+    "returnCode": 1,
+    "elapsedTimeStr": "0:00:01.000820"
+}
